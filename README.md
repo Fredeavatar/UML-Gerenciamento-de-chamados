@@ -1,6 +1,6 @@
 # Gerenciamento de chamados
 
-Esse trabalho é referente ao Projeto Integrado Multidisciplinar da Faculdade UNIP de São José dos Campos
+Esse trabalho é referente ao Projeto Integrado Multidisciplinar da Faculdade UNIP de São José dos Campos, criado em equipe.
   
 ## Backlog do Sistema
 Os requisitos do trabalho estão dividos em requisitos funcionais que descrevem funcionalidades do trabalho, e requisitos não funcionais descrevem requisitos como: tecnologia a ser utilizada, arquitetura, ambiente, etc. 
@@ -87,34 +87,8 @@ IA concede solução para setor responsável de TI de acordo com o sugerido pela
 
 
 ## Sprints 
-![Sprint123](https://github.com/user-attachments/assets/dd97433a-f8aa-4c6b-99a1-0fea97d36438)
-
-![Sprint45](https://github.com/user-attachments/assets/1f549682-e81e-44bf-b57e-cef6747683bb)
-
-![Sprint67](https://github.com/user-attachments/assets/42025fbf-abd4-4d4a-b874-ad02d2e729fc)
-
-![Sprint89](https://github.com/user-attachments/assets/2b714eb9-d349-4e3d-89a8-a3a7738d89d6)
-
 
 ## Relatorio das Sprints
-
-- [Relatório Sprint 1](https://github.com/Fatal-System/Gerenciamento-de-chamados/blob/main/Sprint1.md)
-  
-- [Relatório Sprint 2](https://github.com/Fatal-System/Gerenciamento-de-chamados/blob/main/Sprint2.md)
-  
-- [Relatório Sprint 3](https://github.com/Fatal-System/Gerenciamento-de-chamados/blob/main/Sprint3.md)
-  
-- [Relatório Sprint 4](https://github.com/Fatal-System/Gerenciamento-de-chamados/blob/main/Sprint4.md)
-  
-- [Relatório Sprint 5](https://github.com/Fatal-System/Gerenciamento-de-chamados/blob/main/Sprint5.md)
-  
-- [Relatório Sprint 6](https://github.com/Fatal-System/Gerenciamento-de-chamados/blob/main/Sprint6.md)
-  
-- [Relatório Sprint 7](https://github.com/Fatal-System/Gerenciamento-de-chamados/blob/main/Sprint7.md)
-  
-- [Relatório Sprint 8](https://github.com/Fatal-System/Gerenciamento-de-chamados/blob/main/Sprint8.md)
-  
-- [Relatório Sprint 9](https://github.com/Fatal-System/Gerenciamento-de-chamados/blob/main/Sprint9.md)
 
 
 ## Tecnologias Utilizadas
