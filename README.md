@@ -86,11 +86,6 @@ IA concede solução para setor responsável de TI de acordo com o sugerido pela
 * Criação de Usuario pelo Admin
 
 
-## Sprints 
-
-## Relatorio das Sprints
-
-
 ## Tecnologias Utilizadas
 * [Figma](https://www.figma.com/)
 * [Astah](https://astah.net/)
