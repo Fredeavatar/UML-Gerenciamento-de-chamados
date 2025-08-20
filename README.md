@@ -1,7 +1,17 @@
 # Gerenciamento de chamados
 
 Esse trabalho é referente ao Projeto Integrado Multidisciplinar da Faculdade UNIP de São José dos Campos, criado em equipe.
-  
+
+## Desafio <a id="desafio"></a>
+O desafio consiste em criar um sistema de gerenciamento de chamados triados por uma Inteligência Artificial (IA).
+
+O sistema deve permitir que chamados abertos pelos usuários sejam analisados automaticamente pela IA, que irá propor soluções inteligentes para a equipe de TI responsável. A equipe, ao receber essas propostas, deve validar a veracidade das soluções sugeridas, podendo aceitá-las, ajustá-las ou rejeitá-las.
+
+Conforme as respostas são tratadas, todo o histórico dos chamados é armazenado em um repositório centralizado, garantindo rastreabilidade e aprendizado contínuo. Esse histórico pode ser acessado tanto pela equipe de TI quanto pelo administrador e pela própria IA, permitindo consultas, análises e apoio na tomada de decisões em futuras ocorrências.
+
+O objetivo principal é otimizar o fluxo de atendimento, reduzir a sobrecarga da equipe de TI e melhorar a eficiência do processo de resolução de chamados dentro da organização.
+
+
 ## Backlog do Sistema
 Os requisitos do trabalho estão dividos em requisitos funcionais que descrevem funcionalidades do trabalho, e requisitos não funcionais descrevem requisitos como: tecnologia a ser utilizada, arquitetura, ambiente, etc. 
 
