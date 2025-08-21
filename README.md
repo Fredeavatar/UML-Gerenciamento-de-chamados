@@ -2,6 +2,10 @@
 
 Esse trabalho é referente ao Projeto Integrado Multidisciplinar da Faculdade UNIP de São José dos Campos, criado em equipe.
 
+<p align="center">
+      <img src="img/203549358.jpg" alt="logo da Fatal System" width="400">
+      <h2 align="center"> Fatal System</h2>
+
 ## Desafio <a id="desafio"></a>
 O desafio consiste em criar um sistema de gerenciamento de chamados triados por uma Inteligência Artificial (IA).
 
