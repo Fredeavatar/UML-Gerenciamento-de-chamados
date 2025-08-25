@@ -18,15 +18,21 @@ O objetivo principal é otimizar o fluxo de atendimento, reduzir a sobrecarga da
 
 
 ## [Backlog do Sistema](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/backlog.md)
-Os requisitos do trabalho estão dividos em requisitos funcionais que descrevem funcionalidades do trabalho, e requisitos não funcionais descrevem requisitos como: tecnologia a ser utilizada, arquitetura, ambiente, etc. 
+Os requisitos do trabalho estão dividos em requisitos funcionais que descrevem funcionalidades do trabalho, e requisitos não funcionais descrevem requisitos como: tecnologia a ser utilizada, arquitetura, ambiente, etc.
+
+[Acessar Backlog](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/backlog.md).
 
 
 ## [Requisitos Não-Funcionais](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/reqnfunc.md)
 Requisitos não funcionais referem-se às características e restrições relacionadas às tecnologias utilizadas no desenvolvimento do sistema, garantindo que ele atenda aos requisitos funcionais (funcionalidades) desejados pelo cliente.
 
+[Acessar Requisitos Não-Funcionais](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/reqnfunc.md)
+
 
 ## [Solução Proposta](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/solprop.md)
 Solução proposta para que o sistema de gerenciamento de chamados funcione de forma eficiente, incorporando a inteligência artificial para automatizar e otimizar a triagem dos chamados.
+
+[Acessar Solução Proposta](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/solprop.md)
 
 
 
