@@ -21,36 +21,17 @@ O objetivo principal é otimizar o fluxo de atendimento, reduzir a sobrecarga da
 Os requisitos do trabalho estão dividos em requisitos funcionais que descrevem funcionalidades do trabalho, e requisitos não funcionais descrevem requisitos como: tecnologia a ser utilizada, arquitetura, ambiente, etc. 
 
 
-## Requisitos Não-Funcionais
-### 1. UML
-
-* Astah UML
-
-### 2. Banco de Dados Relacionais
-* Br Modelo (DER e MER)
-* SQL Server
-
-### 3. Documentação
-* Word
-* Excel
-
-## Solução Proposta
-* Priorização e Categorização de chamados por IA
-* Capacidade de IA propor soluções dos chamados para Equipe de TI
-* Geração de relatórios mensais, semanais e anuais dos chamados
-* Criação de Usuario pelo Admin
+## [Requisitos Não-Funcionais](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/reqnfunc.md)
+Requisitos não funcionais referem-se às características e restrições relacionadas às tecnologias utilizadas no desenvolvimento do sistema, garantindo que ele atenda aos requisitos funcionais (funcionalidades) desejados pelo cliente.
 
 
-## Tecnologias Utilizadas
-* [Figma](https://www.figma.com/)
-* [Astah](https://astah.net/)
-* [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
-* [Br Modelo](https://www.brmodeloweb.com/lang/pt-br/index.html)
+## [Solução Proposta](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/solprop.md)
+Solução proposta para que o sistema de gerenciamento de chamados funcione de forma eficiente, incorporando a inteligência artificial para automatizar e otimizar a triagem dos chamados.
+
 
 
 ## Integrantes do grupo
 
-Nome | Github | Instagram
------------- | ------------- | -----------
-
-Frederico Barreto Godoi Dellú| [Acessar Github](https://github.com/Fredeavatar) | [Acessar Instagram](https://www.instagram.com/fredericodellu_?igsh=MXcwa3d0djQzZzZ5MQ==)
+| Nome | Github | Instagram
+| :------------: | :-------------: | :-----------:|
+| Frederico Barreto Godoi Dellú | [Acessar Github](https://github.com/Fredeavatar) | [Acessar Instagram](https://www.instagram.com/fredericodellu_?igsh=MXcwa3d0djQzZzZ5MQ==) |
