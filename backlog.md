@@ -58,3 +58,56 @@ IA concede solução para setor responsável de TI de acordo com o sugerido pela
 
 </pre>
 </pre>
+
+# Modelo em tabela
+
+### 1. Gerenciamento de chamados
+
+| Rank | Prioridade | User Story                                                                                                                                                                                                     | Story Points | Sprint | Requisito do Cliente | Status |
+| :--: | :--------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------: | :----: | :------------------: | :----: |
+|   1  |    Alta    | O sistema deve permitir que o usuário crie um novo chamado, informando título, descrição, categoria e prioridade.                                                                                              |      20      |    1   |          R01         |    ❌   |
+|   2  |    Alta    | O usuário deve poder revisar os dados preenchidos antes de confirmar o envio do chamado.                                                                                                                       |      20      |    1   |          R02         |    ❌   |
+|   3  |    Media    | O sistema deve permitir anexar um ou mais arquivos ao chamado antes do envio.                                                                                                                                 |      20      |    1   |          R03         |    ❌   |
+|   4  |    Alta    | Antes de enviar o chamado, o sistema realiza uma primeira checagem para garantir que todos os campos obrigatórios estejam preenchidos.                                                                         |      20      |    1   |          R04         |    ❌   |
+|   5  |    Alta    | Se o sistema identificar um campo em branco, o chamado não é enviado e o funcionário é informado para preencher os dados.                                                                                      |      20      |    1   |          R05         |    ❌   |
+|   6  |    Alta    | Caso a dupla checagem seja concluída com sucesso, o funcionário envia o chamado para a equipe de suporte.                                                                                                      |      20      |    1   |          R06         |    ❌   |
+|   7  |    Media    | Sistema permite anexar mais arquivos em um chamado já existente.                                                                                                                                               |       20      |    2   |          R07         |    ❌   |
+|   8  |    Alta    | O sistema deve permitir que o usuário visualize os chamados criados, de acordo com o seu nível de acesso.                                                                                                      |       20      |    2   |          R08         |    ❌   |
+
+
+### 2. Gerenciamento de Usuário
+
+| Rank | Prioridade | User Story                                                                                                                                                                                                     | Story Points | Sprint | Requisito do Cliente | Status |
+| :--: | :--------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------: | :----: | :------------------: | :----: |
+|  9  |    Alta    | Como Administrador, eu gostaria de ser o primeiro usuário do sistema, já devidamente pré inserido no banco de dados, para que possa acessar a aplicação.                                                       |      20      |    1   |          R09         |    ❌   |
+|  10  |    Alta   | Como Administrador, eu quero cadastrar novos usuários na plataforma, para que somente pessoas autorizadas possam acessá-la.                                                                                    |      20      |    3   |          R10         |    ❌   |
+|  11  |    Alta   | Como usuário, eu quero acessar a aplicação através de uma interface de login, para que somente usuários autorizados possam utilizar o sistema.                                                                 |      20      |    3   |          R11         |    ❌   |
+|  12  |    Alta   | Como usuário autorizado, eu quero acessar o sistema através de um login, para utilizar a aplicação.                                                                                                            |      20      |    3   |          R12         |    ❌   |
+|  13  |    Alta   | Como usuário autenticado, eu quero poder fazer o logout da aplicação de forma segura, para que meus dados não fiquem acessíveis a terceiros.                                                                   |      20      |    3   |          R13         |    ❌   |
+|  14  |    Média   | Como Administrador, quero poder editar os dados dos usuarios, caso os mesmos solicitem.                                                                                                                        |       15      |    2   |          R14         |    ❌   |
+|  15  |    Média   | Como Administrador, eu quero visualizar a lista de usuários cadastrados, para que eu possa gerenciar quem tem acesso ao sistema.                                                                               |      15      |    3   |          R15         |    ❌   |
+|  16  |    Alta   | Como Administrador, eu quero redefinir a senha de um usuário, para que eu possa ajudá-lo caso ele não consiga acessar a conta.                                                                                 |      20      |    3   |          R16         |    ❌   |
+|  17  |    Alta   | Como Administrador, eu quero excluir usuários do sistema, para que possa revogar o acesso de usuários a aplicação.                                                                                             |      20      |    3   |          R17         |    ❌   |
+|  18  |    Alta   | Como Administrador, ter a capacidade de denominar niveis de acesso ao sistema de acordo com a função do funcionario.                                                                                           |       20      |    2   |          R18         |    ❌   |
+
+
+
+### 3. Gerenciamento de Relatórios
+
+| Rank | Prioridade | User Story                                                                                                                                                                                                     | Story Points | Sprint | Requisito do Cliente | Status |
+| :--: | :--------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------: | :----: | :------------------: | :----: |
+|  19  |    Media   | Como usuário, De acordo com o nível de acesso, gerar relatórios anuais, mensais e semanais.                                                                                                                    |       15      |    2   |          R19         |    ❌   |
+|  20  |    Baixa   | Como usuário, Poder gerar relatórios baseado em prioridades.                                                                                                                                                   |       10      |    2   |          R20         |    ❌   |
+|  21  |    Baixa   | Como usuário, Gerar relatórios de acordo com o tipo de chamado mais requisitado.                                                                                                                               |      10      |    3   |          R21         |    ❌   |
+|  22  |    Baixa   | Como usuario, poder Filtrar os relatórios de acordo com data, prioridade e tipo.                                                                                                                               |      10      |    3   |          R22         |    ❌   |
+|  23  |    Baixa   | Como Admnistrador, poder visualizar os relatórios gerados.                                                                                                                                                     |      10      |    3   |          R23         |    ❌   |
+
+### 4. Gerenciamento de IA
+
+| Rank | Prioridade | User Story                                                                                                                                                                                                     | Story Points | Sprint | Requisito do Cliente | Status |
+| :--: | :--------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------: | :----: | :------------------: | :----: |
+|  24  |    Alta   | A IA deve classificar automaticamente os chamados em níveis de prioridade (alta, média, baixa) com base no conteúdo e na urgência relatada.                                                                    |      20      |    3   |          R24         |    ❌   |
+|  25  |    Alta   | A IA vai identificar o chamado e agrupar na sua respectiva categoria.                                                                                                                                          |      20      |    3   |          R25         |    ❌   |
+|  26  |    Alta   | IA recebe o chamado e analisa as palavras chaves.                                                                                                                                                              |      20      |    3   |          R26         |    ❌   |
+|  27  |    Alta   | A IA também deve encaminhar o chamado para o setor responsável com base na análise feita.                                                                                                                      |      20      |    3   |          R27         |    ❌   |
+|  28  |    Alta   | IA concede solução para setor responsável de TI de acordo com o sugerido pelas palavras chaves.                                                                                                                |      20      |    3   |          R28         |    ❌   |
