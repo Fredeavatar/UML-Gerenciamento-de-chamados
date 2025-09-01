@@ -1,4 +1,0 @@
-## Sprints 
-
-## Relatorio das Sprints
-
