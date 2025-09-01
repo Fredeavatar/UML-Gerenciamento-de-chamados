@@ -3,41 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\frede\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Windows forms\\Appparalogin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2BB68220-BE10-469E-9EB6-BECE83C2D5EA}|Appparalogin\\Appparalogin.csproj|c:\\users\\frede\\onedrive\\\u00E1rea de trabalho\\faculdade\\windows forms\\appparalogin\\appparalogin\\cadastro_de_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2BB68220-BE10-469E-9EB6-BECE83C2D5EA}|Appparalogin\\Appparalogin.csproj|solutionrelative:appparalogin\\cadastro_de_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BB68220-BE10-469E-9EB6-BECE83C2D5EA}|Appparalogin\\Appparalogin.csproj|c:\\users\\frede\\onedrive\\\u00E1rea de trabalho\\faculdade\\windows forms\\appparalogin\\appparalogin\\cadastro_de_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BB68220-BE10-469E-9EB6-BECE83C2D5EA}|Appparalogin\\Appparalogin.csproj|solutionrelative:appparalogin\\cadastro_de_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\frede\\AppData\\Local\\Temp\\dv3hekmt..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2BB68220-BE10-469E-9EB6-BECE83C2D5EA}|Appparalogin\\Appparalogin.csproj|C:\\Users\\frede\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Windows forms\\Appparalogin\\appparalogin\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2BB68220-BE10-469E-9EB6-BECE83C2D5EA}|Appparalogin\\Appparalogin.csproj|solutionrelative:appparalogin\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BB68220-BE10-469E-9EB6-BECE83C2D5EA}|Appparalogin\\Appparalogin.csproj|c:\\users\\frede\\onedrive\\\u00E1rea de trabalho\\faculdade\\windows forms\\appparalogin\\appparalogin\\menurestrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BB68220-BE10-469E-9EB6-BECE83C2D5EA}|Appparalogin\\Appparalogin.csproj|solutionrelative:appparalogin\\menurestrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2BB68220-BE10-469E-9EB6-BECE83C2D5EA}|Appparalogin\\Appparalogin.csproj|C:\\Users\\frede\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Windows forms\\Appparalogin\\appparalogin\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BB68220-BE10-469E-9EB6-BECE83C2D5EA}|Appparalogin\\Appparalogin.csproj|solutionrelative:appparalogin\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2BB68220-BE10-469E-9EB6-BECE83C2D5EA}|Appparalogin\\Appparalogin.csproj|C:\\Users\\frede\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Windows forms\\Appparalogin\\appparalogin\\menurestrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB68220-BE10-469E-9EB6-BECE83C2D5EA}|Appparalogin\\Appparalogin.csproj|solutionrelative:appparalogin\\menurestrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2BB68220-BE10-469E-9EB6-BECE83C2D5EA}|Appparalogin\\Appparalogin.csproj|C:\\Users\\frede\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Windows forms\\Appparalogin\\appparalogin\\menurestrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2BB68220-BE10-469E-9EB6-BECE83C2D5EA}|Appparalogin\\Appparalogin.csproj|solutionrelative:appparalogin\\menurestrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2BB68220-BE10-469E-9EB6-BECE83C2D5EA}|Appparalogin\\Appparalogin.csproj|c:\\users\\frede\\onedrive\\\u00E1rea de trabalho\\faculdade\\windows forms\\appparalogin\\appparalogin\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB68220-BE10-469E-9EB6-BECE83C2D5EA}|Appparalogin\\Appparalogin.csproj|solutionrelative:appparalogin\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB68220-BE10-469E-9EB6-BECE83C2D5EA}|Appparalogin\\Appparalogin.csproj|c:\\users\\frede\\onedrive\\\u00E1rea de trabalho\\faculdade\\windows forms\\appparalogin\\appparalogin\\cadastro_de_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2BB68220-BE10-469E-9EB6-BECE83C2D5EA}|Appparalogin\\Appparalogin.csproj|solutionrelative:appparalogin\\cadastro_de_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2BB68220-BE10-469E-9EB6-BECE83C2D5EA}|Appparalogin\\Appparalogin.csproj|C:\\Users\\frede\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Windows forms\\Appparalogin\\appparalogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BB68220-BE10-469E-9EB6-BECE83C2D5EA}|Appparalogin\\Appparalogin.csproj|solutionrelative:appparalogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\frede\\AppData\\Local\\Temp\\dv3hekmt..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\frede\\AppData\\Local\\Temp\\dv3hekmt..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -59,43 +50,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SQLQuery1.sql ",
-              "DocumentMoniker": "C:\\Users\\frede\\AppData\\Local\\Temp\\dv3hekmt..sql",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\dv3hekmt..sql",
-              "ToolTip": "SQLQuery1.sql *",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-08-31T12:27:36.275Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Cadastro_de_Usuarios.cs [Design]",
               "DocumentMoniker": "C:\\Users\\frede\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Windows forms\\Appparalogin\\Appparalogin\\Cadastro_de_Usuarios.cs",
               "RelativeDocumentMoniker": "Appparalogin\\Cadastro_de_Usuarios.cs",
               "ToolTip": "C:\\Users\\frede\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Windows forms\\Appparalogin\\Appparalogin\\Cadastro_de_Usuarios.cs [Design]",
               "RelativeToolTip": "Appparalogin\\Cadastro_de_Usuarios.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T12:06:39.08Z",
+              "WhenOpened": "2025-09-01T08:47:57.319Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Cadastro_de_Usuarios.cs",
-              "DocumentMoniker": "C:\\Users\\frede\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Windows forms\\Appparalogin\\Appparalogin\\Cadastro_de_Usuarios.cs",
-              "RelativeDocumentMoniker": "Appparalogin\\Cadastro_de_Usuarios.cs",
-              "ToolTip": "C:\\Users\\frede\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Windows forms\\Appparalogin\\Appparalogin\\Cadastro_de_Usuarios.cs",
-              "RelativeToolTip": "Appparalogin\\Cadastro_de_Usuarios.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\frede\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Windows forms\\Appparalogin\\Appparalogin\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "Appparalogin\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\frede\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Windows forms\\Appparalogin\\Appparalogin\\Login.Designer.cs",
+              "RelativeToolTip": "Appparalogin\\Login.Designer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowIkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T12:08:52.598Z",
+              "WhenOpened": "2025-09-01T08:45:51.762Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "C:\\Users\\frede\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Windows forms\\Appparalogin\\Appparalogin\\Login.cs",
               "RelativeDocumentMoniker": "Appparalogin\\Login.cs",
@@ -107,20 +87,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Users\\frede\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Windows forms\\Appparalogin\\Appparalogin\\Login.cs",
               "RelativeDocumentMoniker": "Appparalogin\\Login.cs",
               "ToolTip": "C:\\Users\\frede\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Windows forms\\Appparalogin\\Appparalogin\\Login.cs",
               "RelativeToolTip": "Appparalogin\\Login.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAApwGEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-31T06:04:07.315Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "MenuRestrito.cs [Design]",
               "DocumentMoniker": "C:\\Users\\frede\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Windows forms\\Appparalogin\\Appparalogin\\MenuRestrito.cs",
               "RelativeDocumentMoniker": "Appparalogin\\MenuRestrito.cs",
@@ -132,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "MenuRestrito.cs",
               "DocumentMoniker": "C:\\Users\\frede\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Windows forms\\Appparalogin\\Appparalogin\\MenuRestrito.cs",
               "RelativeDocumentMoniker": "Appparalogin\\MenuRestrito.cs",
@@ -145,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\frede\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\Windows forms\\Appparalogin\\Appparalogin\\Program.cs",
               "RelativeDocumentMoniker": "Appparalogin\\Program.cs",
@@ -153,8 +133,7 @@
               "RelativeToolTip": "Appparalogin\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T07:02:27.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-31T07:02:27.198Z"
             }
           ]
         }
