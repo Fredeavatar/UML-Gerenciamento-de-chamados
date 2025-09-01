@@ -1,4 +1,4 @@
-# Relatorio das Sprint 1
+# Relatorio da Sprint 1
 
 ## Sprint 1 - Reconhecimento e elicitação de requisitos iniciais para projeto 
 
