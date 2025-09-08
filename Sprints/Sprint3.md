@@ -1,6 +1,6 @@
 # Relatorio da Sprint 3
 
-## Sprint 2 - Definição gerenciamento de usuários, IA, chamados e relatórios 
+## Sprint 3 - Definição gerenciamento de usuários, IA, chamados e relatórios 
 ## Período: 01/09 - 08/09
 
 ### Objetivo do Sprint:
