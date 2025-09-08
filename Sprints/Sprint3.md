@@ -1,46 +1,33 @@
-# Relatorio da Sprint 3
+# Relatório da Sprint 3
 
-## Sprint 3 - Definição gerenciamento de usuários, IA, chamados e relatórios 
+## Sprint 3 - Criação do Diagrama de Atividades
 ## Período: 01/09 - 08/09
 
 ### Objetivo do Sprint:
-Esta sprint teve como objetivo avançar na definição de funcionalidades centrais do sistema, com foco em:
-Estruturar os módulos de gerenciamento de usuários e chamados,Definir os parâmetros e critérios para a atuação da inteligência artificial no sistema,
-Estabelecer os requisitos para o módulo de relatórios.
-Essas definições são fundamentais para orientar o desenvolvimento das funcionalidades nas próximas sprints.
+A Sprint 3 teve como principal meta o desenvolvimento e entrega do Diagrama de Atividades, representando o fluxo principal de uso do sistema. Este artefato é fundamental para o alinhamento entre o time de desenvolvimento, product owner e stakeholders, sendo base para o início da modelagem dos casos de uso e da arquitetura de software.
 
 ### Realizações:
-#### 1. Gerenciamento de Usuários
-- Definição das funcionalidades de cadastro, edição e gerenciamento de usuários.
-- Especificação dos campos obrigatórios (nome, e-mail, senha, tipo de usuário, status).
-- Estabelecimento de níveis de acesso (ex: administrador, agente, usuário comum).
+#### 1. Levantamento dos Fluxos de Negócio
+- Identificação dos processos principais a serem modelados no diagrama.
+- Coleta de informações junto ao product owner e equipe de UX para garantir abrangência.
+- Priorização dos fluxos críticos para o negócio.
 
-#### 2. Inteligência Artificial (IA)
-- Escolha da IA a ser utilizada: [Nome da IA/serviço escolhido, ex: ChatGPT API, IBM Watson, etc.] com base em critérios de escalabilidade, custo e integração.
-- Definição de parâmetros para triagem automática de chamados, como:
-- Análise de palavras-chave no título e descrição.
-- Priorização com base em urgência e categoria.
-- Categorização automática por área (ex: TI, RH, Financeiro).
+#### 2. Criação do Diagrama de Atividades
+- Desenho inicial do diagrama utilizando notação UML.
+- Representação das atividades, decisões, paralelismos e fluxos alternativos.
+- Ferramenta utilizada: draw.io (ou outra definida pela equipe).
 
-#### 3. Gerenciamento de Chamados
-- Definição dos campos do formulário de chamado, incluindo:
-- Título
-- Descrição detalhada
-- Categoria
-- Nível de urgência
-- Anexos (opcional)
-- Estabelecido quais dados são obrigatórios para submissão:
-- Título, descrição, categoria e urgência.
+#### 3. Revisão Técnica e Ajustes
+- Apresentação do diagrama para o time de desenvolvimento para validação técnica.
+- Ajustes realizados com base em feedbacks sobre clareza e completude dos fluxos.
 
-#### 4. Gerenciamento de Relatórios
-- Definição dos filtros por data para visualização de chamados:
-- Período personalizado
-- Filtros rápidos: Hoje, Últimos 7 dias, Últimos 30 dias
-- Filtro por intervalo (Data de abertura e/ou fechamento)
+#### 4. Documentação e Versionamento
+- Documentação complementar criada para explicar os elementos e decisões do diagrama.
+- Inclusão dos arquivos no repositório do projeto.
+- Versionamento e integração via branch feature/diagrama-atividades.
 
 ### Desafios Enfrentados
-
-- Escolha da IA: O mercado oferece diversas opções com propostas semelhantes, o que exigiu análise comparativa detalhada.
-- Complexidade nos critérios de triagem automática: Alguns parâmetros exigiram testes preliminares com dados simulados para garantir eficácia.
-- Alinhamento dos campos do chamado com o processo de triagem da IA: Foi necessário ajustar os dados coletados para alimentar corretamente o sistema inteligente.
-- Escopo dos relatórios: A definição de filtros que fossem úteis sem tornar o sistema excessivamente complexo foi um ponto de debate entre a equipe e stakeholders.
+- Complexidade na representação dos fluxos paralelos, exigindo revisão para evitar ambiguidades.
+- Alinhamento entre equipes para garantir que o diagrama refletisse fielmente os processos reais.
+- Adequação do nível de detalhe para não tornar o diagrama excessivamente complexo, mas suficientemente informativo.
+- Atraso na validação final por parte dos stakeholders, impactando a preparação para as próximas etapas.
