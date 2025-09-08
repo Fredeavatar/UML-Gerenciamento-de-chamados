@@ -1,46 +1,32 @@
-# Relatorio da Sprint 4
+# Relatório da Sprint 4
 
-## Sprint 4 - Definição gerenciamento de usuários, IA, chamados e relatórios 
+## Sprint 4 - Criação do Diagrama de Transições de Estados
 ## Período: 08/09 a 15/09
 
 ### Objetivo do Sprint:
-Esta sprint teve como objetivo avançar na definição de funcionalidades centrais do sistema, com foco em:
-Estruturar os módulos de gerenciamento de usuários e chamados,Definir os parâmetros e critérios para a atuação da inteligência artificial no sistema,
-Estabelecer os requisitos para o módulo de relatórios.
-Essas definições são fundamentais para orientar o desenvolvimento das funcionalidades nas próximas sprints.
+Esta sprint teve como objetivo avançar na modelagem dinâmica do sistema, com foco na criação do Diagrama de Transições de Estados, que detalha as mudanças de estado dos principais objetos (ex: chamados, usuários, etc.). Essa modelagem é essencial para garantir o controle correto do ciclo de vida dos elementos e facilitar a implementação dos fluxos de negócio.
 
 ### Realizações:
-#### 1. Gerenciamento de Usuários
-- Definição das funcionalidades de cadastro, edição e gerenciamento de usuários.
-- Especificação dos campos obrigatórios (nome, e-mail, senha, tipo de usuário, status).
-- Estabelecimento de níveis de acesso (ex: administrador, agente, usuário comum).
 
-#### 2. Inteligência Artificial (IA)
-- Escolha da IA a ser utilizada: [Nome da IA/serviço escolhido, ex: ChatGPT API, IBM Watson, etc.] com base em critérios de escalabilidade, custo e integração.
-- Definição de parâmetros para triagem automática de chamados, como:
-- Análise de palavras-chave no título e descrição.
-- Priorização com base em urgência e categoria.
-- Categorização automática por área (ex: TI, RH, Financeiro).
+#### 1. Identificação dos Estados e Eventos
+- Mapeamento dos estados possíveis para os principais objetos do sistema (ex: aberto, em andamento, resolvido, fechado para chamados).
+- Definição dos eventos e ações que provocam as transições entre estados.
 
-#### 3. Gerenciamento de Chamados
-- Definição dos campos do formulário de chamado, incluindo:
-- Título
-- Descrição detalhada
-- Categoria
-- Nível de urgência
-- Anexos (opcional)
-- Estabelecido quais dados são obrigatórios para submissão:
-- Título, descrição, categoria e urgência.
+#### 2. Construção do Diagrama de Transições de Estados
+- Criação do diagrama utilizando notação UML para representar estados, transições, eventos e condições.
+- Utilização da ferramenta draw.io (ou equivalente) para desenho e documentação visual.
 
-#### 4. Gerenciamento de Relatórios
-- Definição dos filtros por data para visualização de chamados:
-- Período personalizado
-- Filtros rápidos: Hoje, Últimos 7 dias, Últimos 30 dias
-- Filtro por intervalo (Data de abertura e/ou fechamento)
+#### 3. Validação Técnica
+- Revisão do diagrama pelo time de desenvolvimento para garantir a aderência às regras de negócio.
+- Ajustes feitos para corrigir inconsistências e melhorar clareza.
+
+#### 4. Documentação e Versionamento
+- Documentação detalhada explicando cada estado e transição, incluindo regras de negócio associadas.
+- Inclusão dos arquivos no repositório.
+- Versionamento via branch feature/diagrama-transicoes-estados e integração à branch principal após revisão.
 
 ### Desafios Enfrentados
-
-- Escolha da IA: O mercado oferece diversas opções com propostas semelhantes, o que exigiu análise comparativa detalhada.
-- Complexidade nos critérios de triagem automática: Alguns parâmetros exigiram testes preliminares com dados simulados para garantir eficácia.
-- Alinhamento dos campos do chamado com o processo de triagem da IA: Foi necessário ajustar os dados coletados para alimentar corretamente o sistema inteligente.
-- Escopo dos relatórios: A definição de filtros que fossem úteis sem tornar o sistema excessivamente complexo foi um ponto de debate entre a equipe e stakeholders.
+- Complexidade em mapear estados intermediários e transições alternativas para alguns objetos.
+- Necessidade de alinhar as regras de negócio com as equipes de produto e atendimento para garantir precisão.
+- Balancear detalhamento do diagrama para evitar sobrecarga visual sem perder informações críticas.
+- Ajustes nas regras após feedback, exigindo revisão rápida e reedição do diagrama.
