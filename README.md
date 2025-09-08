@@ -37,7 +37,7 @@ Solução proposta para que o sistema de gerenciamento de chamados funcione de f
 ## Cronograma de Sprints <a id="sprint"></a>
 
 | Sprint          |    Período    | Documentação                                     |
-| --------------- | :-----------: | ------------------------------------------------ |
+| --------------- | :-----------: | :------------------------------------------------:|
 | 🔖 **SPRINT 1** | 18/08 - 25/08 | [Sprint 1](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/Sprints/Sprint1.md) |
 | 🔖 **SPRINT 2** | 25/08 - 01/09 | [Sprint 2](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/Sprints/Sprint2.md) |
 | 🔖 **SPRINT 3** | 01/09 - 08/09 | [Sprint 3](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/Sprints/Sprint3.md) |
