@@ -40,11 +40,11 @@ Solução proposta para que o sistema de gerenciamento de chamados funcione de f
 | --------------- | :-----------: | ------------------------------------------------ |
 | 🔖 **SPRINT 1** | 18/08 - 25/08 | [Sprint 1 Docs](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/Sprints/Sprint1.md) |
 | 🔖 **SPRINT 2** | 07/04 - 27/04 | [Sprint 2 Docs](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/Sprints/Sprint2.md) |
-| 🔖 **SPRINT 3** | 05/05 - 25/05 | [Sprint 3 Docs](./docs/processo/sprints/sprint-3/README.md) |
-| 🔖 **SPRINT 4** | 05/05 - 25/05 | [Sprint 3 Docs](./docs/processo/sprints/sprint-3/README.md) |
-| 🔖 **SPRINT 5** | 05/05 - 25/05 | [Sprint 3 Docs](./docs/processo/sprints/sprint-3/README.md) |
-| 🔖 **SPRINT 6** | 05/05 - 25/05 | [Sprint 3 Docs](./docs/processo/sprints/sprint-3/README.md) |
-| 🔖 **SPRINT 7** | 05/05 - 25/05 | [Sprint 3 Docs](./docs/processo/sprints/sprint-3/README.md) |
+| 🔖 **SPRINT 3** | 05/05 - 25/05 | [Sprint 3 Docs](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/issues/4) |
+| 🔖 **SPRINT 4** | 05/05 - 25/05 | [Sprint 3 Docs](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/issues/5) |
+| 🔖 **SPRINT 5** | 05/05 - 25/05 | [Sprint 3 Docs](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/issues/6) |
+| 🔖 **SPRINT 6** | 05/05 - 25/05 | [Sprint 3 Docs](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/issues/7) |
+| 🔖 **SPRINT 7** | 05/05 - 25/05 | [Sprint 3 Docs](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/issues/8) |
 
 
 
