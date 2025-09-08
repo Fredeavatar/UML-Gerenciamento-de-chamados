@@ -38,13 +38,13 @@ Solução proposta para que o sistema de gerenciamento de chamados funcione de f
 
 | Sprint          |    Período    | Documentação                                     |
 | --------------- | :-----------: | ------------------------------------------------ |
-| 🔖 **SPRINT 1** | 18/08 - 25/08 | [Sprint 1 Docs](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/Sprints/Sprint1.md) |
-| 🔖 **SPRINT 2** | 07/04 - 27/04 | [Sprint 2 Docs](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/Sprints/Sprint2.md) |
-| 🔖 **SPRINT 3** | 05/05 - 25/05 | [Sprint 3 Docs](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/issues/4) |
-| 🔖 **SPRINT 4** | 05/05 - 25/05 | [Sprint 4 Docs](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/issues/5) |
-| 🔖 **SPRINT 5** | 05/05 - 25/05 | [Sprint 5 Docs](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/issues/6) |
-| 🔖 **SPRINT 6** | 05/05 - 25/05 | [Sprint 6 Docs](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/issues/7) |
-| 🔖 **SPRINT 7** | 05/05 - 25/05 | [Sprint 7 Docs](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/issues/8) |
+| 🔖 **SPRINT 1** | 18/08 - 25/08 | [Sprint 1](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/Sprints/Sprint1.md) |
+| 🔖 **SPRINT 2** | 25/08 - 01/09 | [Sprint 2](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/Sprints/Sprint2.md) |
+| 🔖 **SPRINT 3** | 01/09 - 08/09 | [Sprint 3](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/Sprints/Sprint3.md) |
+| 🔖 **SPRINT 4** | 08/09 - 15/09 | [Sprint 4](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/Sprints/Sprint4.md) |
+| 🔖 **SPRINT 5** | 15/09 - 22/09 | [Sprint 5](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/Sprints/Sprint5.md) |
+| 🔖 **SPRINT 6** | 22/09 - 29/09 | [Sprint 6](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/Sprints/Sprint6.md) |
+| 🔖 **SPRINT 7** | 29/09 - 06/10 | [Sprint 7](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/Sprints/Sprint7.md) |
 
 
 
