@@ -1,46 +1,37 @@
-# Relatorio da Sprint 5
+# Relatório da Sprint 5
 
-## Sprint 5 - Definição gerenciamento de usuários, IA, chamados e relatórios 
+## Sprint 5 - Criação do Diagrama de Colaboração e Visão Geral da Interação
 ## Período: 15/09 a 22/09
 
 ### Objetivo do Sprint:
-Esta sprint teve como objetivo avançar na definição de funcionalidades centrais do sistema, com foco em:
-Estruturar os módulos de gerenciamento de usuários e chamados,Definir os parâmetros e critérios para a atuação da inteligência artificial no sistema,
-Estabelecer os requisitos para o módulo de relatórios.
-Essas definições são fundamentais para orientar o desenvolvimento das funcionalidades nas próximas sprints.
+Esta sprint teve como objetivo avançar na modelagem da interação entre objetos e componentes do sistema, com foco na criação do Diagrama de Colaboração e uma visão geral das interações principais. Esses artefatos são fundamentais para compreender como os elementos do sistema colaboram para realizar funcionalidades, suportando o desenvolvimento e a arquitetura do sistema.
 
 ### Realizações:
-#### 1. Gerenciamento de Usuários
-- Definição das funcionalidades de cadastro, edição e gerenciamento de usuários.
-- Especificação dos campos obrigatórios (nome, e-mail, senha, tipo de usuário, status).
-- Estabelecimento de níveis de acesso (ex: administrador, agente, usuário comum).
 
-#### 2. Inteligência Artificial (IA)
-- Escolha da IA a ser utilizada: [Nome da IA/serviço escolhido, ex: ChatGPT API, IBM Watson, etc.] com base em critérios de escalabilidade, custo e integração.
-- Definição de parâmetros para triagem automática de chamados, como:
-- Análise de palavras-chave no título e descrição.
-- Priorização com base em urgência e categoria.
-- Categorização automática por área (ex: TI, RH, Financeiro).
+#### 1. Levantamento das Entidades e Objetos Envolvidos
+- Identificação dos principais objetos e componentes do sistema que interagem em processos críticos.
+- Definição das responsabilidades e papeis de cada entidade na colaboração.
+  
+#### 2.Construção do Diagrama de Colaboração
+- Mapeamento das interações entre objetos utilizando notação UML para colaboração.
+- Representação das mensagens trocadas, sequência e relacionamento entre objetos.
+- Ferramenta utilizada: Astah (ou similar).
 
-#### 3. Gerenciamento de Chamados
-- Definição dos campos do formulário de chamado, incluindo:
-- Título
-- Descrição detalhada
-- Categoria
-- Nível de urgência
-- Anexos (opcional)
-- Estabelecido quais dados são obrigatórios para submissão:
-- Título, descrição, categoria e urgência.
-
-#### 4. Gerenciamento de Relatórios
-- Definição dos filtros por data para visualização de chamados:
-- Período personalizado
-- Filtros rápidos: Hoje, Últimos 7 dias, Últimos 30 dias
-- Filtro por intervalo (Data de abertura e/ou fechamento)
+#### 3. Visão Geral das Interações
+- Desenvolvimento de um diagrama simplificado que apresenta a visão macro da comunicação entre módulos e subsistemas.
+- Destaque para os pontos de integração entre gerenciamento de usuários, IA, chamados e relatórios.
+  
+#### 4. Validação e Ajustes
+- Apresentação dos diagramas para o time e stakeholders para feedback.
+- Realização de ajustes para garantir clareza e alinhamento com os requisitos do sistema.
+  
+#### 5. Documentação e Versionamento
+- Documentação explicativa criada para detalhar as interações e o fluxo de mensagens.
+- Inclusão dos diagramas e documentos no repositório, em docs/uml/diagrama_colaboracao.
+- Versionamento controlado via branch feature/diagrama-colaboracao.
 
 ### Desafios Enfrentados
-
-- Escolha da IA: O mercado oferece diversas opções com propostas semelhantes, o que exigiu análise comparativa detalhada.
-- Complexidade nos critérios de triagem automática: Alguns parâmetros exigiram testes preliminares com dados simulados para garantir eficácia.
-- Alinhamento dos campos do chamado com o processo de triagem da IA: Foi necessário ajustar os dados coletados para alimentar corretamente o sistema inteligente.
-- Escopo dos relatórios: A definição de filtros que fossem úteis sem tornar o sistema excessivamente complexo foi um ponto de debate entre a equipe e stakeholders.
+- Complexidade em representar claramente as múltiplas interações entre objetos sem perder a simplicidade visual.
+- Alinhamento das interações com as funcionalidades definidas em sprints anteriores para garantir consistência.
+- Garantir que a visão geral seja compreensível para diferentes públicos, do time técnico a stakeholders não técnicos.
+- Necessidade de iterar o diagrama para incorporar feedbacks diversos em pouco tempo.
