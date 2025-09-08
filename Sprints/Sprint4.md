@@ -1,6 +1,6 @@
 # Relatorio da Sprint 4
 
-## Sprint 2 - Definição gerenciamento de usuários, IA, chamados e relatórios 
+## Sprint 4 - Definição gerenciamento de usuários, IA, chamados e relatórios 
 ## Período: 08/09 a 15/09
 
 ### Objetivo do Sprint:
