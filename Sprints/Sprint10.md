@@ -1,70 +1,54 @@
+# Relatório da Sprint 10
 
-# Relatorio da Sprint 10
-
-## Sprint 10 - Definição do Diagrama de Componentes e de Implantação.
+## Sprint 10 - Definição do Diagrama de Pacotes  
 ## Período: 20/10 a 27/10
 
 ### Objetivo do Sprint:
-Esta sprint teve como objetivo a definição e modelagem do Diagrama de Componentes e do Diagrama de Implantação do sistema. Essas representações são fundamentais para:
-  - Especificar a estrutura modular do sistema (componentes e suas responsabilidades).
-  - Visualizar a distribuição física e lógica dos componentes na infraestrutura (servidores, dispositivos, etc.).
-  - Apoiar decisões de arquitetura, escalabilidade e manutenção do sistema.
-   
-O foco foi consolidar a visão arquitetural baseada nas funcionalidades já definidas nas sprints anteriores.
+Esta sprint teve como objetivo a **definição e modelagem do Diagrama de Pacotes** do sistema. Esse diagrama é essencial para:
+
+- Organizar e agrupar as classes e componentes em pacotes lógicos.
+- Facilitar a compreensão da estrutura do sistema em níveis mais altos.
+- Auxiliar na modularização e manutenção do código, promovendo baixo acoplamento entre pacotes.
+
+O foco foi estruturar a arquitetura do sistema em blocos coerentes alinhados com os domínios funcionais já definidos.
 
 ### Realizações:
-#### 1. Diagrama de Componentes
+#### 1. Estruturação dos Pacotes Principais
 
-- *<b>Identificação e modelagem dos principais módulos do sistema, incluindo:</b>*
-  - Módulo de Autenticação
-  - Módulo de Gerenciamento de Usuários
-  - Módulo de Chamados
-  - Módulo de Inteligência Artificial (IA)
-  - Módulo de Relatórios
-  - Módulo de Notificações
-  - Interface Web (Frontend)
-  - API REST
-  - Banco de Dados
-    
-- *<b>Especificação das interfaces e contratos de comunicação entre os componentes:</b>*
-  - Comunicação via API REST entre frontend e backend
-  - Integração entre backend e serviço externo de IA
-  - Interações entre backend e banco de dados relacional
-    
-- *<b>Definição de dependências entre componentes:</b>*
-  - O módulo de IA depende de um serviço externo.
-  - O módulo de relatórios consome dados de chamados e usuários.
-  - O módulo de notificações é acionado por eventos em chamados e usuários.
+- **Pacote: Autenticação**
+  - Contém classes relacionadas à autenticação e controle de acesso.
+  
+- **Pacote: Usuários**
+  - Inclui classes para cadastro, gerenciamento e perfil de usuários.
+  
+- **Pacote: Chamados**
+  - Abriga classes responsáveis pela criação, acompanhamento e fechamento de chamados.
+  
+- **Pacote: Inteligência Artificial**
+  - Contém classes para integração e processamento da triagem automática de chamados.
+  
+- **Pacote: Relatórios**
+  - Engloba classes para geração, filtragem e exportação de relatórios.
+  
+- **Pacote: Notificações**
+  - Classes responsáveis pelo envio e gerenciamento de notificações aos usuários.
+  
+- **Pacote: Interface**
+  - Contém componentes da interface web (frontend) e APIs.
 
-#### 2. Diagrama de Implantação
-- *<b>Modelagem da infraestrutura necessária para o sistema em produção, incluindo:</b>*
-  - Servidor de Aplicação (Backend)
-  - Servidor Web (Frontend)
-  - Servidor de Banco de Dados
-  - Serviço de IA externo (API Cloud)
-  - Rede de comunicação segura (HTTPS, VPN opcional)
-    
-- *<b>Distribuição dos componentes em nós físicos e virtuais:</b>*
-  - Backend e frontend hospedados em containers separados (Docker)
-  - Banco de dados em instância dedicada com backups automáticos
-  - Serviço de IA hospedado externamente (ex: OpenAI, IBM Watson)
-  - Definição de protocolos e portas utilizados:
-  - HTTP/HTTPS para comunicação entre usuários e frontend
-  - RESTful API entre frontend e backend (porta 8080)
-  - Conexão segura com banco de dados (porta 5432, PostgreSQL)
-  - Autenticação com token JWT
-  - Considerações de segurança e escalabilidade:
-  - Camadas separadas para permitir escalonamento horizontal
-  - Uso de balanceador de carga para o frontend
-  - Monitoramento de performance nos servidores
+#### 2. Definição das Dependências entre Pacotes
 
+- O pacote **Usuários** depende do pacote **Autenticação** para validar permissões.
+- O pacote **Chamados** depende dos pacotes **Usuários** e **Inteligência Artificial** para triagem.
+- O pacote **Relatórios** consome dados dos pacotes **Chamados** e **Usuários**.
+- O pacote **Notificações** é acionado por eventos gerados em **Chamados** e **Usuários**.
+- O pacote **Interface** interage com todos os pacotes para oferecer a experiência completa ao usuário.
+
+---
 
 ### Desafios Enfrentados
 
-- <b>*Mapeamento claro dos componentes reutilizáveis:*</b> Foi necessário revisar a arquitetura para garantir baixo acoplamento e alta coesão.
-  
-- <b>*Definição da infraestrutura ideal:*</b> A equipe precisou considerar custos, segurança e desempenho ao propor a implantação.
-  
-- <b>*Integração com serviços externos:*</b> O uso da IA como serviço exigiu análise cuidadosa sobre pontos de falha e latência.
-  
-- <b>*Adoção de contêineres (Docker):*</b> Parte da equipe teve curva de aprendizado ao representar corretamente a implantação em ambientes virtualizados.
+- Definir limites claros entre os pacotes para evitar sobreposição de responsabilidades.
+- Balancear a granularidade dos pacotes para manter modularidade sem fragmentar demais o sistema.
+- Garantir que as dependências fossem unidirecionais para evitar ciclos e facilitar manutenção.
+- Alinhar a estrutura de pacotes com os requisitos de escalabilidade e flexibilidade futuros.
