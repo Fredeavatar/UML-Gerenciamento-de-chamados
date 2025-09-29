@@ -1,13 +1,12 @@
 # Relatório da Sprint 4
 
-## Sprint 4 - Criação do Diagrama de Transições de Estados
+## Sprint 4 - Criação do Diagrama de Transições de Estados  
 ## Período: 08/09 a 15/09
 
 ### Objetivo do Sprint:
 Esta sprint teve como objetivo avançar na modelagem dinâmica do sistema, com foco na criação do Diagrama de Transições de Estados, que detalha as mudanças de estado dos principais objetos (ex: chamados, usuários, etc.). Essa modelagem é essencial para garantir o controle correto do ciclo de vida dos elementos e facilitar a implementação dos fluxos de negócio.
 
 ### Realizações:
-
 #### 1. Identificação dos Estados e Eventos
 - Mapeamento dos estados possíveis para os principais objetos do sistema (ex: aberto, em andamento, resolvido, fechado para chamados).
 - Definição dos eventos e ações que provocam as transições entre estados.
@@ -17,13 +16,15 @@ Esta sprint teve como objetivo avançar na modelagem dinâmica do sistema, com f
 - Utilização da ferramenta draw.io (ou equivalente) para desenho e documentação visual.
 
 #### 3. Validação Técnica
-- Revisão do diagrama pelo time de desenvolvimento para garantir a aderência às regras de negócio.
-- Ajustes feitos para corrigir inconsistências e melhorar clareza.
+- Revisão do diagrama pelo time de desenvolvimento para garantir aderência às regras de negócio.
+- Ajustes realizados para corrigir inconsistências e melhorar a clareza.
 
 #### 4. Documentação e Versionamento
 - Documentação detalhada explicando cada estado e transição, incluindo regras de negócio associadas.
-- Inclusão dos arquivos no repositório.
+- Inclusão dos arquivos no repositório do projeto.
 - Versionamento via branch feature/diagrama-transicoes-estados e integração à branch principal após revisão.
+
+---
 
 ### Desafios Enfrentados
 - Complexidade em mapear estados intermediários e transições alternativas para alguns objetos.
