@@ -1,69 +1,58 @@
-# Relatorio da Sprint 7
+# Relatório da Sprint 8
 
-## Sprint 7 - Definição do Diagrama de Classes.
+## Sprint 8 - Definição do Diagrama de Classes  
 ## Período: 06/10 a 13/10
 
 ### Objetivo do Sprint:
-Esta sprint teve como objetivo a definição e modelagem do Diagrama de Componentes e do Diagrama de Implantação do sistema. Essas representações são fundamentais para:
-  - Especificar a estrutura modular do sistema (componentes e suas responsabilidades).
-  - Visualizar a distribuição física e lógica dos componentes na infraestrutura (servidores, dispositivos, etc.).
-  - Apoiar decisões de arquitetura, escalabilidade e manutenção do sistema.
-   
-O foco foi consolidar a visão arquitetural baseada nas funcionalidades já definidas nas sprints anteriores.
+Esta sprint teve como objetivo a **definição e modelagem do Diagrama de Classes** do sistema. Esse diagrama é fundamental para:
+
+- Especificar as classes do sistema, seus atributos, métodos e relacionamentos.
+- Definir a estrutura estática e os contratos entre os objetos.
+- Servir como base para o desenvolvimento orientado a objetos, garantindo organização e clareza no código.
+
+O foco foi consolidar a modelagem dos principais domínios do sistema, alinhando as funcionalidades definidas nas sprints anteriores.
 
 ### Realizações:
-#### 1. Diagrama de Componentes
+#### 1. Modelagem das Classes Principais
 
-- *<b>Identificação e modelagem dos principais módulos do sistema, incluindo:</b>*
-  - Módulo de Autenticação
-  - Módulo de Gerenciamento de Usuários
-  - Módulo de Chamados
-  - Módulo de Inteligência Artificial (IA)
-  - Módulo de Relatórios
-  - Módulo de Notificações
-  - Interface Web (Frontend)
-  - API REST
-  - Banco de Dados
-    
-- *<b>Especificação das interfaces e contratos de comunicação entre os componentes:</b>*
-  - Comunicação via API REST entre frontend e backend
-  - Integração entre backend e serviço externo de IA
-  - Interações entre backend e banco de dados relacional
-    
-- *<b>Definição de dependências entre componentes:</b>*
-  - O módulo de IA depende de um serviço externo.
-  - O módulo de relatórios consome dados de chamados e usuários.
-  - O módulo de notificações é acionado por eventos em chamados e usuários.
+- **Usuário**
+  - Atributos: id, nome, email, senha, tipo, status
+  - Métodos: autenticar(), atualizarPerfil(), alterarStatus()
+  
+- **Chamado**
+  - Atributos: id, titulo, descricao, categoria, urgencia, status, dataAbertura, dataFechamento
+  - Métodos: criarChamado(), atualizarStatus(), anexarArquivo()
+  
+- **Relatório**
+  - Atributos: id, filtroDataInicio, filtroDataFim, tipoRelatorio
+  - Métodos: gerarRelatorio(), aplicarFiltro()
+  
+- **IA_Triagem**
+  - Atributos: modeloIA, parametrosTriagem
+  - Métodos: analisarChamado(), categorizar(), priorizar()
+  
+- **Notificacao**
+  - Atributos: id, destinatario, mensagem, statusEnvio
+  - Métodos: enviar(), agendarEnvio()
 
-#### 2. Diagrama de Implantação
-- *<b>Modelagem da infraestrutura necessária para o sistema em produção, incluindo:</b>*
-  - Servidor de Aplicação (Backend)
-  - Servidor Web (Frontend)
-  - Servidor de Banco de Dados
-  - Serviço de IA externo (API Cloud)
-  - Rede de comunicação segura (HTTPS, VPN opcional)
-    
-- *<b>Distribuição dos componentes em nós físicos e virtuais:</b>*
-  - Backend e frontend hospedados em containers separados (Docker)
-  - Banco de dados em instância dedicada com backups automáticos
-  - Serviço de IA hospedado externamente (ex: OpenAI, IBM Watson)
-  - Definição de protocolos e portas utilizados:
-  - HTTP/HTTPS para comunicação entre usuários e frontend
-  - RESTful API entre frontend e backend (porta 8080)
-  - Conexão segura com banco de dados (porta 5432, PostgreSQL)
-  - Autenticação com token JWT
-  - Considerações de segurança e escalabilidade:
-  - Camadas separadas para permitir escalonamento horizontal
-  - Uso de balanceador de carga para o frontend
-  - Monitoramento de performance nos servidores
+#### 2. Definição dos Relacionamentos entre Classes
 
+- **Usuário** — (1) —— (N) —> **Chamado**  
+  Um usuário pode abrir múltiplos chamados.
+
+- **Chamado** — (1) —— (1) —> **IA_Triagem**  
+  Cada chamado é analisado pela IA para triagem automática.
+
+- **Chamado** — (1) —— (N) —> **Notificacao**  
+  Chamados geram múltiplas notificações para os usuários envolvidos.
+
+- **Relatório** — depende dos dados das classes **Chamado** e **Usuário** para geração.
+
+---
 
 ### Desafios Enfrentados
 
-- <b>*Mapeamento claro dos componentes reutilizáveis:*</b> Foi necessário revisar a arquitetura para garantir baixo acoplamento e alta coesão.
-  
-- <b>*Definição da infraestrutura ideal:*</b> A equipe precisou considerar custos, segurança e desempenho ao propor a implantação.
-  
-- <b>*Integração com serviços externos:*</b> O uso da IA como serviço exigiu análise cuidadosa sobre pontos de falha e latência.
-  
-- <b>*Adoção de contêineres (Docker):*</b> Parte da equipe teve curva de aprendizado ao representar corretamente a implantação em ambientes virtualizados.
+- Definir os métodos corretos para cada classe, garantindo que refletissem todas as funcionalidades esperadas.
+- Alinhar a granularidade das classes para evitar classes muito genéricas ou excessivamente detalhadas.
+- Modelar corretamente as associações, especialmente para a integração com a inteligência artificial.
+- Garantir que o diagrama estivesse alinhado com os diagramas de sequência e componentes já criados.
