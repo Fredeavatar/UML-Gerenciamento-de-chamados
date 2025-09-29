@@ -37,7 +37,7 @@ Solução proposta para que o sistema de gerenciamento de chamados funcione de f
 ## Cronograma de Sprints <a id="sprint"></a>
 
 | Sprint          |    Período    | Documentação                                     |
-| --------------- | :-----------: | :------------------------------------------------:|
+| --------------- | :-----------: | :---------------------------------------------: |
 | 🔖 **SPRINT 1** | 18/08 - 25/08 | [Sprint 1](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/Sprints/Sprint1.md) |
 | 🔖 **SPRINT 2** | 25/08 - 01/09 | [Sprint 2](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/Sprints/Sprint2.md) |
 | 🔖 **SPRINT 3** | 01/09 - 08/09 | [Sprint 3](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/Sprints/Sprint3.md) |
@@ -45,6 +45,11 @@ Solução proposta para que o sistema de gerenciamento de chamados funcione de f
 | 🔖 **SPRINT 5** | 15/09 - 22/09 | [Sprint 5](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/Sprints/Sprint5.md) |
 | 🔖 **SPRINT 6** | 22/09 - 29/09 | [Sprint 6](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/Sprints/Sprint6.md) |
 | 🔖 **SPRINT 7** | 29/09 - 06/10 | [Sprint 7](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/Sprints/Sprint7.md) |
+| 🔖 **SPRINT 8** | 06/10 - 13/10 | [Sprint 8](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/Sprints/Sprint8.md) |
+| 🔖 **SPRINT 9** | 13/10 - 20/10 | [Sprint 9](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/Sprints/Sprint9.md) |
+| 🔖 **SPRINT 10**| 20/10 - 27/10 | [Sprint 10](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/Sprints/Sprint10.md) |
+| 🔖 **SPRINT 11**| 27/10 - 03/11 | [Sprint 11](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/Sprints/Sprint11.md) |
+| 🔖 **SPRINT 12**| 03/11 - 14/11 | [Sprint 12](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/Sprints/Sprint12.md) |
 
 
 
