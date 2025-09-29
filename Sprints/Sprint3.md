@@ -1,10 +1,10 @@
 # Relatório da Sprint 3
 
-## Sprint 3 - Criação do Diagrama de Atividades
-## Período: 01/09 - 08/09
+## Sprint 3 - Criação do Diagrama de Atividades  
+## Período: 01/09 a 08/09
 
 ### Objetivo do Sprint:
-A Sprint 3 teve como principal meta o desenvolvimento e entrega do Diagrama de Atividades, representando o fluxo principal de uso do sistema. Este artefato é fundamental para o alinhamento entre o time de desenvolvimento, product owner e stakeholders, sendo base para o início da modelagem dos casos de uso e da arquitetura de software.
+A Sprint 3 teve como principal meta o desenvolvimento e entrega do Diagrama de Atividades, representando o fluxo principal de uso do sistema. Este artefato é fundamental para o alinhamento entre o time de desenvolvimento, product owner e stakeholders, servindo como base para o início da modelagem dos casos de uso e da arquitetura de software.
 
 ### Realizações:
 #### 1. Levantamento dos Fluxos de Negócio
@@ -26,8 +26,12 @@ A Sprint 3 teve como principal meta o desenvolvimento e entrega do Diagrama de A
 - Inclusão dos arquivos no repositório do projeto.
 - Versionamento e integração via branch feature/diagrama-atividades.
 
+---
+
 ### Desafios Enfrentados
 - Complexidade na representação dos fluxos paralelos, exigindo revisão para evitar ambiguidades.
 - Alinhamento entre equipes para garantir que o diagrama refletisse fielmente os processos reais.
 - Adequação do nível de detalhe para não tornar o diagrama excessivamente complexo, mas suficientemente informativo.
 - Atraso na validação final por parte dos stakeholders, impactando a preparação para as próximas etapas.
+
+---
