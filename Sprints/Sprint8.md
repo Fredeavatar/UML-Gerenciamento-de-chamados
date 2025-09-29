@@ -1,7 +1,7 @@
 # Relatorio da Sprint 7
 
-## Sprint 7 - Definição do Diagrama de Componentes e de Implantação.
-## Período: 29/09 a 06/10
+## Sprint 7 - Definição do Diagrama de Classes.
+## Período: 06/10 a 13/10
 
 ### Objetivo do Sprint:
 Esta sprint teve como objetivo a definição e modelagem do Diagrama de Componentes e do Diagrama de Implantação do sistema. Essas representações são fundamentais para:
