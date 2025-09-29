@@ -4,43 +4,60 @@
 ## Período: 22/09 a 29/09
 
 ### Objetivo do Sprint:
-Esta sprint teve como objetivo avançar na definição de funcionalidades centrais do sistema, com foco em:
-Estruturar os módulos de gerenciamento de usuários e chamados,Definir os parâmetros e critérios para a atuação da inteligência artificial no sistema,
-Estabelecer os requisitos para o módulo de relatórios.
-Essas definições são fundamentais para orientar o desenvolvimento das funcionalidades nas próximas sprints.
+O principal objetivo desta sprint foi modelar os diagramas de sequência correspondentes às funcionalidades centrais do sistema. Essa atividade visa representar, de forma clara e técnica, o fluxo de interação entre os usuários (atores) e os componentes do sistema, servindo como base para a implementação futura das funcionalidades. As áreas de foco incluíram:
+
+- Gerenciamento de usuários
+- Gerenciamento e triagem inteligente de chamados
+- Geração e visualização de relatórios
+
+Esses diagramas auxiliam no alinhamento entre equipe técnica e stakeholders, reduzindo ambiguidades e antecipando possíveis ajustes de lógica.
 
 ### Realizações:
-#### 1. Gerenciamento de Usuários
-- Definição das funcionalidades de cadastro, edição e gerenciamento de usuários.
-- Especificação dos campos obrigatórios (nome, e-mail, senha, tipo de usuário, status).
-- Estabelecimento de níveis de acesso (ex: administrador, agente, usuário comum).
+#### 1. Diagrama de Sequência - Gerenciamento de Usuários
 
-#### 2. Inteligência Artificial (IA)
-- Escolha da IA a ser utilizada: [Nome da IA/serviço escolhido, ex: ChatGPT API, IBM Watson, etc.] com base em critérios de escalabilidade, custo e integração.
-- Definição de parâmetros para triagem automática de chamados, como:
-- Análise de palavras-chave no título e descrição.
-- Priorização com base em urgência e categoria.
-- Categorização automática por área (ex: TI, RH, Financeiro).
+- Modelagem das sequências para as ações de:
+  - Cadastro de novo usuário
+  - Edição de perfil
+  - Alteração de status (ativo/inativo)
 
-#### 3. Gerenciamento de Chamados
-- Definição dos campos do formulário de chamado, incluindo:
-- Título
-- Descrição detalhada
-- Categoria
-- Nível de urgência
-- Anexos (opcional)
-- Estabelecido quais dados são obrigatórios para submissão:
-- Título, descrição, categoria e urgência.
+- Representação das interações entre o ator "Administrador", a interface do sistema e o backend.
+- Inclusão da validação de campos obrigatórios:
+  - Nome, e-mail, senha, tipo de usuário e status
+- Diagrama contempla a verificação de permissões com base no tipo de usuário.
 
-#### 4. Gerenciamento de Relatórios
-- Definição dos filtros por data para visualização de chamados:
-- Período personalizado
-- Filtros rápidos: Hoje, Últimos 7 dias, Últimos 30 dias
-- Filtro por intervalo (Data de abertura e/ou fechamento)
+#### 2. Diagrama de Sequência - Inteligência Artificial na Triagem de Chamados
+- Modelagem da lógica de triagem automática ao criar um chamado.
+- Interação entre o ator "Usuário", o sistema e o serviço de IA selecionado: [Nome da IA escolhida, ex: ChatGPT API ou IBM Watson]
+- Passos representados:
+  - Envio de dados do chamado (título, descrição, urgência, categoria)
+  - Análise por palavras-chave
+  - Priorização e categorização automática
+- Inclusão de fluxos alternativos para casos em que a IA não consiga classificar o chamado.
 
+Retorno do resultado da IA ao sistema
+#### 3. Diagrama de Sequência - Submissão e Acompanhamento de Chamados
+- Criação do diagrama que representa:
+  - Preenchimento e envio do formulário de chamado
+  - Validação dos campos obrigatórios: título, descrição, categoria e urgência
+  - Armazenamento do chamado e atribuição de ID
+  - Confirmação visual ao usuário
+- Fluxo de acompanhamento com a visualização de status e atualizações.
+#### 4. Diagrama de Sequência - Geração de Relatórios
+- Representação das interações para:
+  - Aplicação de filtros (datas e status)
+  - Consulta ao banco de dados
+  - Geração e exibição de relatório
+- Filtros modelados:
+  - Período personalizado
+  - Filtros rápidos (Hoje, Últimos 7 dias, Últimos 30 dias)
+  - Intervalo de abertura/fechamento
+- Atores envolvidos: Administrador e Analista
 ### Desafios Enfrentados
 
-- Escolha da IA: O mercado oferece diversas opções com propostas semelhantes, o que exigiu análise comparativa detalhada.
-- Complexidade nos critérios de triagem automática: Alguns parâmetros exigiram testes preliminares com dados simulados para garantir eficácia.
-- Alinhamento dos campos do chamado com o processo de triagem da IA: Foi necessário ajustar os dados coletados para alimentar corretamente o sistema inteligente.
-- Escopo dos relatórios: A definição de filtros que fossem úteis sem tornar o sistema excessivamente complexo foi um ponto de debate entre a equipe e stakeholders.
+- Escolha da IA: Exigiu pesquisa técnica detalhada para modelar corretamente a integração com o serviço selecionado.
+
+- Complexidade nos fluxos de triagem automática: A IA demanda parâmetros bem definidos; o diagrama precisou considerar fluxos alternativos e falhas.
+
+- Alinhamento entre formulários e lógica de IA: Ajustes foram necessários para garantir que os dados enviados fossem suficientes para a classificação.
+
+- Representação visual dos relatórios: A variedade de filtros trouxe desafios na modelagem de interações com o banco de dados, exigindo clareza na definição dos fluxos.
