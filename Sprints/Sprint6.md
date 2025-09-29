@@ -1,6 +1,6 @@
 # Relatorio da Sprint 6
 
-## Sprint 6 - Definição gerenciamento de usuários, IA, chamados e relatórios 
+## Sprint 6 - Criação de Diagramas de Sequencia. 
 ## Período: 22/09 a 29/09
 
 ### Objetivo do Sprint:
