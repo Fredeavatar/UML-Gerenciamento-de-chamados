@@ -1,38 +1,54 @@
 # Gerenciamento de chamados
 
-Esse trabalho é referente ao Projeto Integrado Multidisciplinar da Faculdade UNIP de São José dos Campos, criado em equipe.
+![Status do Projeto](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Linguagem](https://img.shields.io/badge/linguagem-C%23-blueviolet)
+![Framework](https://img.shields.io/badge/framework-.NET-blue)
+
+> Este trabalho é referente ao Projeto Integrado Multidisciplinar (PIM) do curso de Análise e Desenvolvimento de Sistemas da Faculdade UNIP de São José dos Campos.
 
 <p align="center">
-      <img src="img/203549358.jpg" alt="logo da Fatal System" width="400">
-      <h2 align="center"> Fatal System</h2>
+  <img src="img/203549358.jpg" alt="logo da Fatal System" width="400">
+</p>
+<h2 align="center">Fatal System</h2>
+
+<p align="center">
+  <a href="#desafio">Desafio</a> •
+  <a href="#tecnologias-utilizadas">Tecnologias</a> •
+  <a href="#como-executar-o-projeto">Como Executar</a> •
+  <a href="#documenta--o">Documentação</a> •
+  <a href="#diagramas-uml">Diagramas UML</a> •
+  <a href="#cronograma-de-sprints">Sprints</a> •
+  <a href="#integrantes-do-grupo">Integrantes</a>
+</p>
 
 ## Desafio <a id="desafio"></a>
-O desafio consiste em criar um sistema de gerenciamento de chamados triados por uma Inteligência Artificial (IA).
+O desafio consiste em criar um sistema de gerenciamento de chamados triados por uma Inteligência Artificial (IA), otimizando o fluxo de atendimento e reduzindo a sobrecarga da equipe de TI. O sistema permite que chamados sejam analisados automaticamente, com soluções propostas pela IA para validação da equipe técnica, enquanto todo o histórico é armazenado para aprendizado contínuo e futuras consultas.
 
-O sistema deve permitir que chamados abertos pelos usuários sejam analisados automaticamente pela IA, que irá propor soluções inteligentes para a equipe de TI responsável. A equipe, ao receber essas propostas, deve validar a veracidade das soluções sugeridas, podendo aceitá-las, ajustá-las ou rejeitá-las.
+## Tecnologias Utilizadas <a id="tecnologias-utilizadas"></a>
+* **Linguagem:** C#
+* **Framework:** .NET Framework (Windows Forms)
+* **Banco de Dados:** SQL Server (utilizando Azure SQL)
+* **Modelagem:** Astah UML
+* **Versionamento:** Git & GitHub
 
-Conforme as respostas são tratadas, todo o histórico dos chamados é armazenado em um repositório centralizado, garantindo rastreabilidade e aprendizado contínuo. Esse histórico pode ser acessado tanto pela equipe de TI quanto pelo administrador e pela própria IA, permitindo consultas, análises e apoio na tomada de decisões em futuras ocorrências.
+## Como Executar o Projeto <a id="como-executar-o-projeto"></a>
+### Pré-requisitos
+* Visual Studio 2019 ou superior
+* .NET Framework 4.7.2
+* Acesso a uma instância do SQL Server (local ou na nuvem)
 
-O objetivo principal é otimizar o fluxo de atendimento, reduzir a sobrecarga da equipe de TI e melhorar a eficiência do processo de resolução de chamados dentro da organização.
+### Instalação e Execução
+1.  Clone o repositório: `git clone https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados.git`
+2.  Abra a solução (`.sln`) no Visual Studio.
+3.  Configure a `connectionString` no código com as credenciais do seu banco de dados.
+4.  Execute o projeto pressionando `F5`.
+5.  Login padrão: `admin` / `admin1234`.
 
-
-
-## [Backlog do Sistema](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/backlog.md)
-Os requisitos do trabalho estão dividos em requisitos funcionais que descrevem funcionalidades do trabalho, e requisitos não funcionais descrevem requisitos como: tecnologia a ser utilizada, arquitetura, ambiente, etc.
-
-[Acessar Backlog](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/backlog.md).
-
-
-## [Requisitos Não-Funcionais](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/reqnfunc.md)
-Requisitos não funcionais referem-se às características e restrições relacionadas às tecnologias utilizadas no desenvolvimento do sistema, garantindo que ele atenda aos requisitos funcionais (funcionalidades) desejados pelo cliente.
-
-[Acessar Requisitos Não-Funcionais](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/reqnfunc.md)
-
-
-## [Solução Proposta](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/solprop.md)
-Solução proposta para que o sistema de gerenciamento de chamados funcione de forma eficiente, incorporando a inteligência artificial para automatizar e otimizar a triagem dos chamados.
-
-[Acessar Solução Proposta](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/solprop.md)
+## Documentação <a id="documenta--o"></a>
+A documentação completa do projeto, incluindo requisitos funcionais e não-funcionais, está detalhada nos seguintes arquivos:
+* [Backlog do Produto](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/backlog.md)
+* [Requisitos Não-Funcionais](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/reqnfunc.md)
+* [Solução Proposta](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/solprop.md)
 
 ## Cronograma de Sprints <a id="sprint"></a>
 
