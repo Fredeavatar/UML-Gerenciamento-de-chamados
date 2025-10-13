@@ -8,8 +8,9 @@
 
 <p align="center">
   <img src="img/203549358.jpg" alt="logo da Fatal System" width="400">
+  <br/>
+  <strong>Gerenciamento de Chamados com Triagem por IA</strong>
 </p>
-<h2 align="center">Fatal System</h2>
 
 <p align="center">
   <a href="#desafio">Desafio</a> •
