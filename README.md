@@ -74,23 +74,23 @@ A modelagem completa do sistema foi realizada utilizando os 13 diagramas da UML 
 ### Diagramas Estruturais
 | Diagrama | Descrição | Visualização |
 | :--- | :--- | :---: |
-| **Diagrama de Pacotes** | Mostra a organização arquitetural do sistema em módulos e suas dependências. | [Visualizar](Diagramas/1.Arquitetura/Diagrama_de_Pacotes.png) |
-| **Diagrama de Classes Geral**| Apresenta o modelo de domínio com as principais entidades, repositórios e a hierarquia de usuários. | [Visualizar](link/para/DiagramaDeClasses_Geral.png) |
-| **Diagrama de Componentes** | Descreve os principais componentes de software e hardware e como eles interagem. | [Visualizar](link/para/DiagramaDeComponentes.png) |
-| **Diagrama de Implantação**| Ilustra a arquitetura física, mostrando onde cada componente é executado (cliente/servidor). | [Visualizar](link/para/DiagramaDeImplantacao.png) |
-| **Diagrama de Objetos** | Apresenta uma "fotografia" do sistema com exemplos de objetos e seus dados em um momento específico. | [Visualizar](link/para/Chamado_Objetos.png) |
-| **Diagrama de Estrutura Composta** | Detalha a arquitetura interna de um componente, mostrando suas partes e como colaboram. | [Visualizar](link/para/EstruturaComposta_ChamadoRepo.png) |
+| **Diagrama de Pacotes** | Mostra a organização arquitetural do sistema em módulos e suas dependências. | [Visualizar](Diagramas/1_Arquitetura/Diagrama_de_Pacotes.png) |
+| **Diagrama de Classes Geral**| Apresenta o modelo de domínio com as principais entidades, repositórios e a hierarquia de usuários. | [Visualizar](Diagramas/2_Modelo_De_Dominio/Diagrama_de_Classe_Geral.png) |
+| **Diagrama de Componentes** | Descreve os principais componentes de software e hardware e como eles interagem. | [Visualizar](Diagramas/1_Arquitetura/Diagrama_De_Componentes.png) |
+| **Diagrama de Implantação**| Ilustra a arquitetura física, mostrando onde cada componente é executado (cliente/servidor). | [Visualizar](Diagramas/1_Arquitetura/Diagrama_de_Implantação.png) |
+| **Diagrama de Objetos** | Apresenta uma "fotografia" do sistema com exemplos de objetos e seus dados em um momento específico. | [Visualizar](Diagramas/4_Gerenciamento_de_Chamados/Diagrama_de_Objetos_Chamado.png) |
+| **Diagrama de Estrutura Composta** | Detalha a arquitetura interna de um componente, mostrando suas partes e como colaboram. | [Visualizar](Diagramas/4_Gerenciamento_de_Chamados/Diagrama_de_Estrutura_Composta.png) |
 
 ### Diagramas Comportamentais
 | Diagrama | Descrição | Visualização |
 | :--- | :--- | :---: |
-| **Diagrama de Casos de Uso** | Descreve as funcionalidades do sistema sob a perspectiva dos atores. | [Visualizar](link/para/GestaoDeChamados_CasosDeUso.png) |
-| **Diagrama de Atividades** | Modela os fluxos de trabalho passo a passo para os principais processos de negócio. | [Visualizar](link/para/criarChamado_Atividade.png) |
-| **Diagrama de Máquina de Estados** | Detalha o ciclo de vida de um objeto `Chamado`, mostrando seus estados e transições. | [Visualizar](link/para/Chamado_MaquinaDeEstados.png) |
-| **Diagrama de Sequência** | Mostra a troca de mensagens entre os objetos ao longo do tempo para realizar um caso de uso. | [Visualizar](link/para/criarChamado_Sequencia.png) |
-| **Diagrama de Comunicação**| Enfatiza os relacionamentos e a troca de mensagens entre os objetos, sem focar na linha do tempo. | [Visualizar](link/para/fazerLogin_Comunicacao.png) |
-| **Diagrama de Visão Geral da Interação** | Apresenta um fluxo de alto nível, conectando diferentes diagramas de sequência. | [Visualizar](link/para/VisaoGeral_Interacao.png) |
-| **Diagrama de Temporização**| Foca nas restrições de tempo e na mudança de estado de um objeto ao longo do tempo. | [Visualizar](link/para/Chamado_Temporizacao.png) |
+| **Diagrama de Casos de Uso** | Descreve as funcionalidades do sistema sob a perspectiva dos atores. | [Visualizar](Diagramas/4_Gerenciamento_de_Chamados/Casos_de_Uso_Gerenciamento_de_Chamados.png) |
+| **Diagrama de Atividades** | Modela os fluxos de trabalho passo a passo para os principais processos de negócio. | [Visualizar](Diagramas/4_Gerenciamento_de_Chamados/Criar_Chamado_Atividade.png) |
+| **Diagrama de Máquina de Estados** | Detalha o ciclo de vida de um objeto `Chamado`, mostrando seus estados e transições. | [Visualizar](Diagramas/4_Gerenciamento_de_Chamados/Diagrama_de_Maquina_de_Estados_Chamado.png) |
+| **Diagrama de Sequência** | Mostra a troca de mensagens entre os objetos ao longo do tempo para realizar um caso de uso. | [Visualizar](Diagramas/4_Gerenciamento_de_Chamados/Criar_Chamado_Sequencia.png) |
+| **Diagrama de Comunicação**| Enfatiza os relacionamentos e a troca de mensagens entre os objetos, sem focar na linha do tempo. | [Visualizar](Diagramas/3_Gestão_de_Acesso/Comunicação_Fazer_Login.png) |
+| **Diagrama de Visão Geral da Interação** | Apresenta um fluxo de alto nível, conectando diferentes diagramas de sequência. | [Visualizar](Diagramas/4_Gerenciamento_de_Chamados/Diagrama_de_Visão_Geral_da_interação.png) |
+| **Diagrama de Temporização**| Foca nas restrições de tempo e na mudança de estado de um objeto ao longo do tempo. | [Visualizar](Diagramas/4_Gerenciamento_de_Chamados/Diagrama_de_Temporização_de_Chamado.png) |
 
 
 
