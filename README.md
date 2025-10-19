@@ -68,6 +68,30 @@ A documentação completa do projeto, incluindo requisitos funcionais e não-fun
 | 🔖 **SPRINT 11**| 27/10 - 03/11 | [Sprint 11](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/Sprints/Sprint11.md) |
 | 🔖 **SPRINT 12**| 03/11 - 14/11 | [Sprint 12](https://github.com/Fredeavatar/UML-Gerenciamento-de-chamados/blob/main/Sprints/Sprint12.md) |
 
+## Diagramas UML <a id="diagramas-uml"></a>
+A modelagem completa do sistema foi realizada utilizando os 13 diagramas da UML para documentar a arquitetura, a estrutura e o comportamento do software, conforme as boas práticas de engenharia de software.
+
+### Diagramas Estruturais
+| Diagrama | Descrição | Visualização |
+| :--- | :--- | :---: |
+| **Diagrama de Pacotes** | Mostra a organização arquitetural do sistema em módulos e suas dependências. | [Visualizar](Diagramas/1.Arquitetura/Diagrama_de_Pacotes.png) |
+| **Diagrama de Classes Geral**| Apresenta o modelo de domínio com as principais entidades, repositórios e a hierarquia de usuários. | [Visualizar](link/para/DiagramaDeClasses_Geral.png) |
+| **Diagrama de Componentes** | Descreve os principais componentes de software e hardware e como eles interagem. | [Visualizar](link/para/DiagramaDeComponentes.png) |
+| **Diagrama de Implantação**| Ilustra a arquitetura física, mostrando onde cada componente é executado (cliente/servidor). | [Visualizar](link/para/DiagramaDeImplantacao.png) |
+| **Diagrama de Objetos** | Apresenta uma "fotografia" do sistema com exemplos de objetos e seus dados em um momento específico. | [Visualizar](link/para/Chamado_Objetos.png) |
+| **Diagrama de Estrutura Composta** | Detalha a arquitetura interna de um componente, mostrando suas partes e como colaboram. | [Visualizar](link/para/EstruturaComposta_ChamadoRepo.png) |
+
+### Diagramas Comportamentais
+| Diagrama | Descrição | Visualização |
+| :--- | :--- | :---: |
+| **Diagrama de Casos de Uso** | Descreve as funcionalidades do sistema sob a perspectiva dos atores. | [Visualizar](link/para/GestaoDeChamados_CasosDeUso.png) |
+| **Diagrama de Atividades** | Modela os fluxos de trabalho passo a passo para os principais processos de negócio. | [Visualizar](link/para/criarChamado_Atividade.png) |
+| **Diagrama de Máquina de Estados** | Detalha o ciclo de vida de um objeto `Chamado`, mostrando seus estados e transições. | [Visualizar](link/para/Chamado_MaquinaDeEstados.png) |
+| **Diagrama de Sequência** | Mostra a troca de mensagens entre os objetos ao longo do tempo para realizar um caso de uso. | [Visualizar](link/para/criarChamado_Sequencia.png) |
+| **Diagrama de Comunicação**| Enfatiza os relacionamentos e a troca de mensagens entre os objetos, sem focar na linha do tempo. | [Visualizar](link/para/fazerLogin_Comunicacao.png) |
+| **Diagrama de Visão Geral da Interação** | Apresenta um fluxo de alto nível, conectando diferentes diagramas de sequência. | [Visualizar](link/para/VisaoGeral_Interacao.png) |
+| **Diagrama de Temporização**| Foca nas restrições de tempo e na mudança de estado de um objeto ao longo do tempo. | [Visualizar](link/para/Chamado_Temporizacao.png) |
+
 
 
 ## Integrantes do grupo
