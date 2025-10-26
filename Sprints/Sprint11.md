@@ -1,47 +1,87 @@
-# Relatório da Sprint 11
+# PIM - Análise e Desenvolvimento de Sistemas (UNIP SJC)
 
-## Sprint 11 - Definição do Diagrama de Estrutura Composta  
-## Período: 27/10 a 03/11
+# Fatal System - Gerenciamento de Chamados com Triagem por IA
 
-### Objetivo do Sprint:
-Esta sprint teve como objetivo a **definição e modelagem do Diagrama de Estrutura Composta** do sistema. Esse diagrama é fundamental para:
+# Documentação - Sprint 11
 
-- Representar a estrutura interna dos componentes do sistema.
-- Detalhar como os componentes são compostos por partes internas e como essas partes interagem.
-- Fornecer uma visão detalhada da organização interna dos elementos para apoiar o desenvolvimento e manutenção.
+<p align="center">
+     <img src="../docs/img/Fatal_System_Logo_FINAL.png" alt="logo da Fatal System" width="200">
+     <h2 align="center"> Fatal System</h2>
+</p>
 
-O foco foi detalhar a composição dos principais módulos e seus relacionamentos internos, alinhando-os com os diagramas anteriores.
+<p align="center">
+ | <a href="#objetivo">Objetivo da Sprint</a> |
+ <a href="#realizacoes">Principais Realizações</a> |
+ <a href="#dor">DoR</a> |
+ <a href="#dod">DoD</a> |
+ <a href="#desafios">Desafios</a> |
+ <a href="#equipe">Equipe</a> |
+</p>
 
-### Realizações:
-#### 1. Modelagem da Estrutura Interna dos Componentes Principais
+> Status da Sprint: Concluída ✅
+> Período: 27/10 a 03/11
 
-- **Componente: Módulo de Usuários**
-  - Partes internas: Gerenciador de Cadastro, Validador de Dados, Controle de Permissões
-  - Conexões internas para garantir o fluxo correto de dados e permissões
+## 🏅 Objetivo da Sprint <a id="objetivo"></a>
 
-- **Componente: Módulo de Chamados**
-  - Partes internas: Criador de Chamados, Analisador de Prioridade, Atualizador de Status
-  - Interações entre as partes para processamento completo do ciclo do chamado
+Definição e modelagem do Diagrama de Estrutura Composta do sistema, focando no componente `ChamadoRepository`. O objetivo é representar a estrutura interna, detalhar como é composto por partes internas (`Funcoes`, `HistoricoRepository`) e como essas partes interagem via interfaces (`IChamadoRepository`).
 
-- **Componente: Módulo de Inteligência Artificial**
-  - Partes internas: Interface com API Externa, Processador de Texto, Módulo de Classificação
-  - Definição clara das conexões e fluxo de dados entre as partes
+## 📋 Principais Realizações da Sprint <a id="realizacoes"></a>
 
-- **Componente: Módulo de Relatórios**
-  - Partes internas: Gerador de Filtros, Compilador de Dados, Exportador de Relatórios
-  - Comunicação interna para geração e entrega dos relatórios
+* **Modelagem da Estrutura Interna do `ChamadoRepository`:**
+    * Identificação das partes/dependências internas: `_funcoesHelper: Funcoes` e `_historicoRepo: HistoricoRepository`.
+    * Representação visual da composição no diagrama (`Diagramas.pdf`, página 11).
+* **Definição das Conexões e Portas:**
+    * Especificação da interface `IChamadoRepository` exposta pelo componente.
+    * Demonstração das conexões internas (como `ChamadoRepository` utiliza `Funcoes` e `HistoricoRepository`).
 
-#### 2. Definição das Conexões e Portas de Comunicação
+## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
 
-- Especificação das portas que conectam as partes internas dentro de cada componente.
-- Definição dos protocolos e tipos de dados que trafegam entre as partes.
-- Estabelecimento das interfaces públicas e privadas para garantir encapsulamento e modularidade.
+| Critério                        | Descrição                                                                                          |
+| :------------------------------ | :------------------------------------------------------------------------------------------------- |
+| Clareza na Descrição            | A User Story está escrita no formato “Como [persona], quero [ação] para que [objetivo]”.             |
+| Critérios de Aceitação Definidos| A história possui critérios objetivos que indicam o que é necessário para considerá-la concluída.  |
+| Cenários de Teste Especificados | A história tem pelo menos 1 cenário de teste estruturado (Dado, Quando, Então).                     |
+| Independente                    | A história pode ser implementada sem depender de outra tarefa da mesma Sprint.                      |
+| Compreensão Compartilhada       | Toda a equipe (incluindo PO e devs) compreende o propósito da história.                             |
+| Estimável                       | A história foi pontuada no Planning Poker ou tem uma estimativa clara.                              |
+| Documentos de Apoio             | Se necessário, mockups, fluxos ou modelos de dados estão anexados ou referenciados.                 |
+| Critérios técnicos acordados    | As necessidades de Frontend e Backend foram claramente separadas (quando aplicável).                 |
 
----
+## 🏆 DoD - Definition of Done <a id="dod"></a>
 
-### Desafios Enfrentados
+| Critério                          | Descrição                                                                                    |
+| :-------------------------------- | :------------------------------------------------------------------------------------------- |
+| Critérios de Aceitação atendidos  | Todos os cenários de teste da história foram executados e aprovados.                           |
+| Testes manuais realizados         | Onde aplicável, os dados são corretamente armazenados e recuperáveis.                          |
+| Código revisado                   | O código foi revisado por pelo menos um colega de equipe.                                    |
+| Documentação interna atualizada   | Foi atualizado o que for necessário: API, estrutura de dados, endpoints, etc.                 |
+| Integração com outras partes testada| As interfaces entre Frontend e Backend foram validadas.                                      |
+| Build/Testes automatizados        | A funcionalidade não quebra a aplicação e passa nos testes automatizados existentes.          |
+| Validação do PO                   | O Product Owner validou a entrega com base nos critérios definidos.                             |
+| Pronto para deploy                | O item está testado, validado e pode ser integrado ao produto final.                            |
 
-- Detalhar a estrutura interna sem perder a visão geral do sistema, mantendo o equilíbrio entre granularidade e complexidade.
-- Garantir a clareza na definição das conexões internas, especialmente em componentes com várias partes.
-- Ajustar os diagramas para refletir as interações reais já previstas nos diagramas de sequência e componentes.
-- Promover alinhamento entre os times de desenvolvimento e arquitetura para adoção da estrutura definida.
+## 🔥 Desafios Enfrentados <a id="desafios"></a>
+
+* Detalhar a estrutura interna sem perder a visão geral do sistema, mantendo o equilíbrio entre granularidade e complexidade.
+* Garantir a clareza na definição das conexões internas, especialmente em componentes com várias partes.
+* Ajustar os diagramas para refletir as interações reais já previstas nos diagramas de sequência e componentes.
+* Promover alinhamento entre os times de desenvolvimento e arquitetura para adoção da estrutura definida.
+
+## 🎓 Equipe <a id="equipe"></a>
+
+<div align="center">
+ <table>
+   <tr>
+     <th>Membro</th>
+     <th>Função</th>
+     <th>Github</th>
+     <th>Instagram</th>
+   </tr>
+   <tr>
+     <td>Frederico Barreto Godoi Dellú</td>
+     <td>Desenvolvedor / Documentação</td>
+     <td><a href="https://github.com/Fredeavatar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a></td>
+     <td><a href="https://www.instagram.com/fredericodellu_?igsh=MXcwa3d0djQzZzZ5MQ=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a></td>
+   </tr>
+   </table>
+</div>
