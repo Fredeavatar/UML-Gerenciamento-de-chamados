@@ -25,7 +25,6 @@
 >
 > Casos de Uso Detalhados: [PDF](docs/Links/UseCaseD.pdf) 📄
 >
-> Vídeo do Projeto: [Link para Youtube, se houver] 📽️
 
 ## 🏅 Desafio <a id="desafio"></a>
 
@@ -169,5 +168,6 @@ cd Gerenciamento-de-chamados
    </tr>
    </table>
 </div>
+
 
 
