@@ -39,8 +39,6 @@ O **Fatal System** é uma aplicação desktop desenvolvida em C# (.NET Windows F
 
 ## 📋 Backlog do Produto <a id="backlog"></a>
 
-*(Nota: Esta tabela é uma adaptação dos Casos de Uso, com Story Points e Sprints estimados para fins de exemplo. Os valores reais devem ser definidos pela equipe.)*
-
 | Rank | Prioridade | User Story / Funcionalidade (Baseado nos Casos de Uso)                                                                                             | Story Points | Sprint | Requisito | Status |
 | :--: | :--------: | :--------------------------------------------------------------------------------------------------------------------------------------------------- | :----------: | :----: | :-------: | :----: |
 |  1   |    Alta    | Como usuário, quero fazer login no sistema para acessar as funcionalidades correspondentes à minha função (Admin, Funcionário, EquipeTI).               |      8       |    1   |    R01    |   ✅   |
@@ -91,7 +89,6 @@ O **Fatal System** é uma aplicação desktop desenvolvida em C# (.NET Windows F
 | 🔖 **SPRINT 10**| 20/10 - 27/10 | [Sprint 10](link/para/Sprint10.md) |
 | 🔖 **SPRINT 11**| 27/10 - 03/11 | [Sprint 11](link/para/Sprint11.md) |
 | 🔖 **SPRINT 12**| 03/11 - 14/11 | [Sprint 12](link/para/Sprint12.md) |
-*(Atualize os links para apontarem para os arquivos corretos no seu repositório)*
 
 ## 💻 Tecnologias <a id="tecnologias"></a>
 
@@ -172,4 +169,5 @@ cd Gerenciamento-de-chamados
    </tr>
    </table>
 </div>
+
 
