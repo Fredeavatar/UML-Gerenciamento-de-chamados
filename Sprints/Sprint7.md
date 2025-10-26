@@ -1,67 +1,89 @@
-# Relatório da Sprint 7
+# PIM - Análise e Desenvolvimento de Sistemas (UNIP SJC)
 
-## Sprint 7 - Definição do Diagrama de Componentes e de Implantação  
-## Período: 29/09 a 06/10
+# Fatal System - Gerenciamento de Chamados com Triagem por IA
 
-### Objetivo do Sprint:
-Esta sprint teve como objetivo a definição e modelagem do Diagrama de Componentes e do Diagrama de Implantação do sistema. Essas representações são fundamentais para:  
-- Especificar a estrutura modular do sistema (componentes e suas responsabilidades).  
-- Visualizar a distribuição física e lógica dos componentes na infraestrutura (servidores, dispositivos, etc.).  
-- Apoiar decisões de arquitetura, escalabilidade e manutenção do sistema.  
+# Documentação - Sprint 7
 
-O foco foi consolidar a visão arquitetural baseada nas funcionalidades já definidas nas sprints anteriores.
+<p align="center">
+     <img src="../docs/img/Fatal_System_Logo_FINAL.png" alt="logo da Fatal System" width="200">
+     <h2 align="center"> Fatal System</h2>
+</p>
 
-### Realizações:
-#### 1. Diagrama de Componentes
-- Identificação e modelagem dos principais módulos do sistema, incluindo:  
-  - Módulo de Autenticação  
-  - Módulo de Gerenciamento de Usuários  
-  - Módulo de Chamados  
-  - Módulo de Inteligência Artificial (IA)  
-  - Módulo de Relatórios  
-  - Módulo de Notificações  
-  - Interface Web (Frontend)  
-  - API REST  
-  - Banco de Dados  
+<p align="center">
+ | <a href="#objetivo">Objetivo da Sprint</a> |
+ <a href="#realizacoes">Principais Realizações</a> |
+ <a href="#dor">DoR</a> |
+ <a href="#dod">DoD</a> |
+ <a href="#desafios">Desafios</a> |
+ <a href="#equipe">Equipe</a> |
+</p>
 
-- Especificação das interfaces e contratos de comunicação entre os componentes:  
-  - Comunicação via API REST entre frontend e backend  
-  - Integração entre backend e serviço externo de IA  
-  - Interações entre backend e banco de dados relacional  
+> Status da Sprint: Concluída ✅
+> Período: 29/09 a 06/10
 
-- Definição de dependências entre componentes:  
-  - O módulo de IA depende de um serviço externo.  
-  - O módulo de relatórios consome dados de chamados e usuários.  
-  - O módulo de notificações é acionado por eventos em chamados e usuários.
+## 🏅 Objetivo da Sprint <a id="objetivo"></a>
 
-#### 2. Diagrama de Implantação
-- Modelagem da infraestrutura necessária para o sistema em produção, incluindo:  
-  - Servidor de Aplicação (Backend)  
-  - Servidor Web (Frontend)  
-  - Servidor de Banco de Dados  
-  - Serviço de IA externo (API Cloud)  
-  - Rede de comunicação segura (HTTPS, VPN opcional)  
+Definição e modelagem do Diagrama de Componentes e do Diagrama de Implantação do sistema. O objetivo é especificar a estrutura modular, visualizar a distribuição física/lógica na infraestrutura e apoiar decisões de arquitetura, escalabilidade e manutenção.
 
-- Distribuição dos componentes em nós físicos e virtuais:  
-  - Backend e frontend hospedados em containers separados (Docker)  
-  - Banco de dados em instância dedicada com backups automáticos  
-  - Serviço de IA hospedado externamente (ex: OpenAI, IBM Watson)  
+## 📋 Principais Realizações da Sprint <a id="realizacoes"></a>
 
-- Definição de protocolos e portas utilizados:  
-  - HTTP/HTTPS para comunicação entre usuários e frontend  
-  - RESTful API entre frontend e backend (porta 8080)  
-  - Conexão segura com banco de dados (porta 5432, PostgreSQL)  
-  - Autenticação com token JWT  
+* **Diagrama de Componentes:**
+    * Identificação e modelagem dos componentes: `App Windows Forms`, `Serviço de IA`, `SQL Server em nuvem Azure` (`Diagramas.pdf`, página 30).
+    * Especificação das interfaces providas e requeridas: `IAcessoADados`, `IServicoDeSugestao`, `AcessoADadosSQLServer`, `ServicoDeSugestaoIA`.
+    * Definição das dependências entre os componentes (ex: App Forms depende de IAcessoADados e IServicoDeSugestao).
+* **Diagrama de Implantação:**
+    * Modelagem da infraestrutura: Nó do Cliente (onde roda o App Windows Forms), Nó do Servidor de Banco de Dados (Azure SQL), Nó do Serviço de IA (nuvem Google). *(Inferido do diagrama de componentes e contexto)*.
+    * Distribuição dos artefatos/componentes nos nós.
+    * Definição dos protocolos de comunicação (ex: TDS, HTTPS).
 
-- Considerações de segurança e escalabilidade:  
-  - Camadas separadas para permitir escalonamento horizontal  
-  - Uso de balanceador de carga para o frontend  
-  - Monitoramento de performance nos servidores
+## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
 
----
+| Critério                        | Descrição                                                                                          |
+| :------------------------------ | :------------------------------------------------------------------------------------------------- |
+| Clareza na Descrição            | A User Story está escrita no formato “Como [persona], quero [ação] para que [objetivo]”.             |
+| Critérios de Aceitação Definidos| A história possui critérios objetivos que indicam o que é necessário para considerá-la concluída.  |
+| Cenários de Teste Especificados | A história tem pelo menos 1 cenário de teste estruturado (Dado, Quando, Então).                     |
+| Independente                    | A história pode ser implementada sem depender de outra tarefa da mesma Sprint.                      |
+| Compreensão Compartilhada       | Toda a equipe (incluindo PO e devs) compreende o propósito da história.                             |
+| Estimável                       | A história foi pontuada no Planning Poker ou tem uma estimativa clara.                              |
+| Documentos de Apoio             | Se necessário, mockups, fluxos ou modelos de dados estão anexados ou referenciados.                 |
+| Critérios técnicos acordados    | As necessidades de Frontend e Backend foram claramente separadas (quando aplicável).                 |
 
-### Desafios Enfrentados
-- Mapeamento claro dos componentes reutilizáveis: foi necessário revisar a arquitetura para garantir baixo acoplamento e alta coesão.  
-- Definição da infraestrutura ideal: a equipe precisou considerar custos, segurança e desempenho ao propor a implantação.  
-- Integração com serviços externos: o uso da IA como serviço exigiu análise cuidadosa sobre pontos de falha e latência.  
-- Adoção de contêineres (Docker): parte da equipe teve curva de aprendizado ao representar corretamente a implantação em ambientes virtualizados.
+## 🏆 DoD - Definition of Done <a id="dod"></a>
+
+| Critério                          | Descrição                                                                                    |
+| :-------------------------------- | :------------------------------------------------------------------------------------------- |
+| Critérios de Aceitação atendidos  | Todos os cenários de teste da história foram executados e aprovados.                           |
+| Testes manuais realizados         | Onde aplicável, os dados são corretamente armazenados e recuperáveis.                          |
+| Código revisado                   | O código foi revisado por pelo menos um colega de equipe.                                    |
+| Documentação interna atualizada   | Foi atualizado o que for necessário: API, estrutura de dados, endpoints, etc.                 |
+| Integração com outras partes testada| As interfaces entre Frontend e Backend foram validadas.                                      |
+| Build/Testes automatizados        | A funcionalidade não quebra a aplicação e passa nos testes automatizados existentes.          |
+| Validação do PO                   | O Product Owner validou a entrega com base nos critérios definidos.                             |
+| Pronto para deploy                | O item está testado, validado e pode ser integrado ao produto final.                            |
+
+## 🔥 Desafios Enfrentados <a id="desafios"></a>
+
+* Mapeamento claro dos componentes reutilizáveis: foi necessário revisar a arquitetura para garantir baixo acoplamento e alta coesão.
+* Definição da infraestrutura ideal: a equipe precisou considerar custos, segurança e desempenho ao propor a implantação.
+* Integração com serviços externos: o uso da IA como serviço exigiu análise cuidadosa sobre pontos de falha e latência.
+* Representar corretamente a implantação distribuída (Cliente/Nuvem).
+
+## 🎓 Equipe <a id="equipe"></a>
+
+<div align="center">
+ <table>
+   <tr>
+     <th>Membro</th>
+     <th>Função</th>
+     <th>Github</th>
+     <th>Instagram</th>
+   </tr>
+   <tr>
+     <td>Frederico Barreto Godoi Dellú</td>
+     <td>Desenvolvedor / Documentação</td>
+     <td><a href="https://github.com/Fredeavatar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a></td>
+     <td><a href="https://www.instagram.com/fredericodellu_?igsh=MXcwa3d0djQzZzZ5MQ=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a></td>
+   </tr>
+   </table>
+</div>
