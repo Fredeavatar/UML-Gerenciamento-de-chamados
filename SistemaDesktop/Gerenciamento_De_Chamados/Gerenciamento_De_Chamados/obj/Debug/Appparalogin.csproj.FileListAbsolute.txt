@@ -1,0 +1,98 @@
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\Windows forms\Appparalogin\Appparalogin\bin\Debug\Appparalogin.exe.config
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\Windows forms\Appparalogin\Appparalogin\bin\Debug\Appparalogin.exe
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\Windows forms\Appparalogin\Appparalogin\bin\Debug\Appparalogin.pdb
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\Windows forms\Appparalogin\Appparalogin\obj\Debug\Appparalogin.csproj.AssemblyReference.cache
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\Windows forms\Appparalogin\Appparalogin\obj\Debug\Appparalogin.Properties.Resources.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\Windows forms\Appparalogin\Appparalogin\obj\Debug\Appparalogin.csproj.GenerateResource.cache
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\Windows forms\Appparalogin\Appparalogin\obj\Debug\Appparalogin.csproj.CoreCompileInputs.cache
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\Windows forms\Appparalogin\Appparalogin\obj\Debug\Appparalogin.exe
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\Windows forms\Appparalogin\Appparalogin\obj\Debug\Appparalogin.pdb
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\Windows forms\Appparalogin\Appparalogin\obj\Debug\Appparalogin.exe.config
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\Windows forms\Appparalogin\Appparalogin\obj\Debug\Appparalogin.Login.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\Windows forms\Appparalogin\Appparalogin\obj\Debug\Appparalogin.MenuRestrito.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\Windows forms\Appparalogin\Appparalogin\obj\Debug\Appparalogin.Cadastro_de_Usuarios.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\pastagit1\Appparalogin\Appparalogin\bin\Debug\Appparalogin.exe.config
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\pastagit1\Appparalogin\Appparalogin\bin\Debug\Appparalogin.exe
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\pastagit1\Appparalogin\Appparalogin\bin\Debug\Appparalogin.pdb
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\pastagit1\Appparalogin\Appparalogin\obj\Debug\Appparalogin.csproj.AssemblyReference.cache
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\pastagit1\Appparalogin\Appparalogin\obj\Debug\Appparalogin.exe.config
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\pastagit1\Appparalogin\Appparalogin\obj\Debug\Appparalogin.Cadastro_de_Usuarios.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\pastagit1\Appparalogin\Appparalogin\obj\Debug\Appparalogin.Login.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\pastagit1\Appparalogin\Appparalogin\obj\Debug\Appparalogin.MenuRestrito.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\pastagit1\Appparalogin\Appparalogin\obj\Debug\Appparalogin.Properties.Resources.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\pastagit1\Appparalogin\Appparalogin\obj\Debug\Appparalogin.csproj.GenerateResource.cache
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\pastagit1\Appparalogin\Appparalogin\obj\Debug\Appparalogin.csproj.CoreCompileInputs.cache
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\pastagit1\Appparalogin\Appparalogin\obj\Debug\Appparalogin.exe
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\pastagit1\Appparalogin\Appparalogin\obj\Debug\Appparalogin.pdb
+C:\Users\Gabriel\Desktop\Faculdade\pim\Appparalogin\Appparalogin\bin\Debug\Appparalogin.exe.config
+C:\Users\Gabriel\Desktop\Faculdade\pim\Appparalogin\Appparalogin\bin\Debug\Appparalogin.exe
+C:\Users\Gabriel\Desktop\Faculdade\pim\Appparalogin\Appparalogin\bin\Debug\Appparalogin.pdb
+C:\Users\Gabriel\Desktop\Faculdade\pim\Appparalogin\Appparalogin\obj\Debug\Appparalogin.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Faculdade\pim\Appparalogin\Appparalogin\obj\Debug\Appparalogin.exe.config
+C:\Users\Gabriel\Desktop\Faculdade\pim\Appparalogin\Appparalogin\obj\Debug\Appparalogin.Cadastro_de_Usuarios.resources
+C:\Users\Gabriel\Desktop\Faculdade\pim\Appparalogin\Appparalogin\obj\Debug\Appparalogin.Login.resources
+C:\Users\Gabriel\Desktop\Faculdade\pim\Appparalogin\Appparalogin\obj\Debug\Appparalogin.MenuRestrito.resources
+C:\Users\Gabriel\Desktop\Faculdade\pim\Appparalogin\Appparalogin\obj\Debug\Appparalogin.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\Faculdade\pim\Appparalogin\Appparalogin\obj\Debug\Appparalogin.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\Faculdade\pim\Appparalogin\Appparalogin\obj\Debug\Appparalogin.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Faculdade\pim\Appparalogin\Appparalogin\obj\Debug\Appparalogin.exe
+C:\Users\Gabriel\Desktop\Faculdade\pim\Appparalogin\Appparalogin\obj\Debug\Appparalogin.pdb
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\pastagit2\Gerenciamento-de-chamados\Appparalogin\Appparalogin\bin\Debug\Appparalogin.exe.config
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\pastagit2\Gerenciamento-de-chamados\Appparalogin\Appparalogin\bin\Debug\Appparalogin.exe
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\pastagit2\Gerenciamento-de-chamados\Appparalogin\Appparalogin\bin\Debug\Appparalogin.pdb
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\pastagit2\Gerenciamento-de-chamados\Appparalogin\Appparalogin\obj\Debug\Appparalogin.csproj.AssemblyReference.cache
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\pastagit2\Gerenciamento-de-chamados\Appparalogin\Appparalogin\obj\Debug\Appparalogin.exe.config
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\pastagit2\Gerenciamento-de-chamados\Appparalogin\Appparalogin\obj\Debug\Appparalogin.Cadastro_de_Usuarios.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\pastagit2\Gerenciamento-de-chamados\Appparalogin\Appparalogin\obj\Debug\Appparalogin.Login.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\pastagit2\Gerenciamento-de-chamados\Appparalogin\Appparalogin\obj\Debug\Appparalogin.MenuRestrito.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\pastagit2\Gerenciamento-de-chamados\Appparalogin\Appparalogin\obj\Debug\Appparalogin.Properties.Resources.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\pastagit2\Gerenciamento-de-chamados\Appparalogin\Appparalogin\obj\Debug\Appparalogin.csproj.GenerateResource.cache
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\pastagit2\Gerenciamento-de-chamados\Appparalogin\Appparalogin\obj\Debug\Appparalogin.csproj.CoreCompileInputs.cache
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\pastagit2\Gerenciamento-de-chamados\Appparalogin\Appparalogin\obj\Debug\Appparalogin.exe
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\pastagit2\Gerenciamento-de-chamados\Appparalogin\Appparalogin\obj\Debug\Appparalogin.pdb
+C:\Users\Liedson\OneDrive\Documentos\Unip\pim\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\bin\Debug\Appparalogin.exe.config
+C:\Users\Liedson\OneDrive\Documentos\Unip\pim\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\bin\Debug\Appparalogin.exe
+C:\Users\Liedson\OneDrive\Documentos\Unip\pim\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\bin\Debug\Appparalogin.pdb
+C:\Users\Liedson\OneDrive\Documentos\Unip\pim\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.csproj.AssemblyReference.cache
+C:\Users\Liedson\OneDrive\Documentos\Unip\pim\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.exe.config
+C:\Users\Liedson\OneDrive\Documentos\Unip\pim\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.Cadastro_de_Usuarios.resources
+C:\Users\Liedson\OneDrive\Documentos\Unip\pim\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.Login.resources
+C:\Users\Liedson\OneDrive\Documentos\Unip\pim\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.MenuRestrito.resources
+C:\Users\Liedson\OneDrive\Documentos\Unip\pim\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.Properties.Resources.resources
+C:\Users\Liedson\OneDrive\Documentos\Unip\pim\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.csproj.GenerateResource.cache
+C:\Users\Liedson\OneDrive\Documentos\Unip\pim\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.csproj.CoreCompileInputs.cache
+C:\Users\Liedson\OneDrive\Documentos\Unip\pim\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.exe
+C:\Users\Liedson\OneDrive\Documentos\Unip\pim\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.pdb
+C:\Users\Gabriel\Desktop\Faculdade\pim\SistemaDesktop\Appparalogin\Appparalogin\bin\Debug\Appparalogin.exe.config
+C:\Users\Gabriel\Desktop\Faculdade\pim\SistemaDesktop\Appparalogin\Appparalogin\bin\Debug\Appparalogin.exe
+C:\Users\Gabriel\Desktop\Faculdade\pim\SistemaDesktop\Appparalogin\Appparalogin\bin\Debug\Appparalogin.pdb
+C:\Users\Gabriel\Desktop\Faculdade\pim\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Faculdade\pim\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.exe.config
+C:\Users\Gabriel\Desktop\Faculdade\pim\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.Cadastro_de_Usuarios.resources
+C:\Users\Gabriel\Desktop\Faculdade\pim\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.Login.resources
+C:\Users\Gabriel\Desktop\Faculdade\pim\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.MenuRestrito.resources
+C:\Users\Gabriel\Desktop\Faculdade\pim\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\Faculdade\pim\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\Faculdade\pim\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Faculdade\pim\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.exe
+C:\Users\Gabriel\Desktop\Faculdade\pim\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.pdb
+C:\Users\Gabriel\Desktop\Faculdade\pim\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.Home.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\bin\Debug\Appparalogin.exe.config
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\bin\Debug\Appparalogin.exe
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\bin\Debug\Appparalogin.pdb
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.csproj.AssemblyReference.cache
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.exe.config
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.Cadastro_de_Usuarios.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.Home.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.Login.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.MenuRestrito.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.Properties.Resources.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.csproj.GenerateResource.cache
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.csproj.CoreCompileInputs.cache
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.exe
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.pdb
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.CriarChamado.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.GerenciarChamado.resources
+C:\Users\Gabriel\Desktop\Faculdade\pim\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.AberturaChamados.resources
+C:\Users\Gabriel\Desktop\Faculdade\pim\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.ContinuaçaoAbertura.resources
+C:\Users\Gabriel\Desktop\Faculdade\pim\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.GerenciarChamado.resources

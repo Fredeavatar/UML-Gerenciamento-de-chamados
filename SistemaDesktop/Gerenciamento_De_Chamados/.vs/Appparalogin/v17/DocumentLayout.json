@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\frede\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\GitHub FatalSystem\\Gerenciamento-de-chamados\\SistemaDesktop\\Appparalogin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB68220-BE10-469E-9EB6-BECE83C2D5EA}|Appparalogin\\Gerenciamento_De_Chamados.csproj|c:\\users\\frede\\onedrive\\\u00E1rea de trabalho\\faculdade\\github fatalsystem\\gerenciamento-de-chamados\\sistemadesktop\\appparalogin\\appparalogin\\visualizarchamado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2BB68220-BE10-469E-9EB6-BECE83C2D5EA}|Appparalogin\\Gerenciamento_De_Chamados.csproj|solutionrelative:appparalogin\\visualizarchamado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB68220-BE10-469E-9EB6-BECE83C2D5EA}|Appparalogin\\Gerenciamento_De_Chamados.csproj|c:\\users\\frede\\onedrive\\\u00E1rea de trabalho\\faculdade\\github fatalsystem\\gerenciamento-de-chamados\\sistemadesktop\\appparalogin\\appparalogin\\visualizarchamado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB68220-BE10-469E-9EB6-BECE83C2D5EA}|Appparalogin\\Gerenciamento_De_Chamados.csproj|solutionrelative:appparalogin\\visualizarchamado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB68220-BE10-469E-9EB6-BECE83C2D5EA}|Appparalogin\\Gerenciamento_De_Chamados.csproj|c:\\users\\frede\\onedrive\\\u00E1rea de trabalho\\faculdade\\github fatalsystem\\gerenciamento-de-chamados\\sistemadesktop\\appparalogin\\appparalogin\\gerenciarchamado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB68220-BE10-469E-9EB6-BECE83C2D5EA}|Appparalogin\\Gerenciamento_De_Chamados.csproj|solutionrelative:appparalogin\\gerenciarchamado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB68220-BE10-469E-9EB6-BECE83C2D5EA}|Appparalogin\\Gerenciamento_De_Chamados.csproj|c:\\users\\frede\\onedrive\\\u00E1rea de trabalho\\faculdade\\github fatalsystem\\gerenciamento-de-chamados\\sistemadesktop\\appparalogin\\appparalogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB68220-BE10-469E-9EB6-BECE83C2D5EA}|Appparalogin\\Gerenciamento_De_Chamados.csproj|solutionrelative:appparalogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB68220-BE10-469E-9EB6-BECE83C2D5EA}|Appparalogin\\Gerenciamento_De_Chamados.csproj|c:\\users\\frede\\onedrive\\\u00E1rea de trabalho\\faculdade\\github fatalsystem\\gerenciamento-de-chamados\\sistemadesktop\\appparalogin\\appparalogin\\gerenciarchamado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2BB68220-BE10-469E-9EB6-BECE83C2D5EA}|Appparalogin\\Gerenciamento_De_Chamados.csproj|solutionrelative:appparalogin\\gerenciarchamado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB68220-BE10-469E-9EB6-BECE83C2D5EA}|Appparalogin\\Gerenciamento_De_Chamados.csproj|c:\\users\\frede\\onedrive\\\u00E1rea de trabalho\\faculdade\\github fatalsystem\\gerenciamento-de-chamados\\sistemadesktop\\appparalogin\\appparalogin\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2BB68220-BE10-469E-9EB6-BECE83C2D5EA}|Appparalogin\\Gerenciamento_De_Chamados.csproj|solutionrelative:appparalogin\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\frede\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\GitHub FatalSystem\\Gerenciamento-de-chamados\\SistemaDesktop\\Appparalogin\\Appparalogin\\Program.cs",
+              "RelativeDocumentMoniker": "Appparalogin\\Program.cs",
+              "ToolTip": "C:\\Users\\frede\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\GitHub FatalSystem\\Gerenciamento-de-chamados\\SistemaDesktop\\Appparalogin\\Appparalogin\\Program.cs",
+              "RelativeToolTip": "Appparalogin\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:33:48.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GerenciarChamado.cs",
+              "DocumentMoniker": "C:\\Users\\frede\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\GitHub FatalSystem\\Gerenciamento-de-chamados\\SistemaDesktop\\Appparalogin\\Appparalogin\\GerenciarChamado.cs",
+              "RelativeDocumentMoniker": "Appparalogin\\GerenciarChamado.cs",
+              "ToolTip": "C:\\Users\\frede\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\GitHub FatalSystem\\Gerenciamento-de-chamados\\SistemaDesktop\\Appparalogin\\Appparalogin\\GerenciarChamado.cs",
+              "RelativeToolTip": "Appparalogin\\GerenciarChamado.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:28:09.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VisualizarChamado.cs",
+              "DocumentMoniker": "C:\\Users\\frede\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\GitHub FatalSystem\\Gerenciamento-de-chamados\\SistemaDesktop\\Appparalogin\\Appparalogin\\VisualizarChamado.cs",
+              "RelativeDocumentMoniker": "Appparalogin\\VisualizarChamado.cs",
+              "ToolTip": "C:\\Users\\frede\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\GitHub FatalSystem\\Gerenciamento-de-chamados\\SistemaDesktop\\Appparalogin\\Appparalogin\\VisualizarChamado.cs",
+              "RelativeToolTip": "Appparalogin\\VisualizarChamado.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAiwEMAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:06:06.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VisualizarChamado.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\frede\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\GitHub FatalSystem\\Gerenciamento-de-chamados\\SistemaDesktop\\Appparalogin\\Appparalogin\\VisualizarChamado.cs",
+              "RelativeDocumentMoniker": "Appparalogin\\VisualizarChamado.cs",
+              "ToolTip": "C:\\Users\\frede\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\GitHub FatalSystem\\Gerenciamento-de-chamados\\SistemaDesktop\\Appparalogin\\Appparalogin\\VisualizarChamado.cs [Design]",
+              "RelativeToolTip": "Appparalogin\\VisualizarChamado.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:00:32.158Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GerenciarChamado.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\frede\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\GitHub FatalSystem\\Gerenciamento-de-chamados\\SistemaDesktop\\Appparalogin\\Appparalogin\\GerenciarChamado.cs",
+              "RelativeDocumentMoniker": "Appparalogin\\GerenciarChamado.cs",
+              "ToolTip": "C:\\Users\\frede\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\GitHub FatalSystem\\Gerenciamento-de-chamados\\SistemaDesktop\\Appparalogin\\Appparalogin\\GerenciarChamado.cs [Design]",
+              "RelativeToolTip": "Appparalogin\\GerenciarChamado.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T04:29:38.001Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\frede\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\GitHub FatalSystem\\Gerenciamento-de-chamados\\SistemaDesktop\\Appparalogin\\Appparalogin\\.gitignore",
+              "RelativeDocumentMoniker": "Appparalogin\\.gitignore",
+              "ToolTip": "C:\\Users\\frede\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\GitHub FatalSystem\\Gerenciamento-de-chamados\\SistemaDesktop\\Appparalogin\\Appparalogin\\.gitignore",
+              "RelativeToolTip": "Appparalogin\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-03T04:28:46.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

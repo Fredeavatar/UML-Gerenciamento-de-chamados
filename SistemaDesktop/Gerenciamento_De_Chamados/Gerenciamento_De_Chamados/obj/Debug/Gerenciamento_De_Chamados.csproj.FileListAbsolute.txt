@@ -1,0 +1,218 @@
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Gerenciamento_De_Chamados.csproj.AssemblyReference.cache
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Gerenciamento_De_Chamados.Properties.Resources.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Gerenciamento_De_Chamados.csproj.GenerateResource.cache
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Gerenciamento_De_Chamados.csproj.CoreCompileInputs.cache
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\bin\Debug\Gerenciamento_De_Chamados.exe.config
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\bin\Debug\Gerenciamento_De_Chamados.exe
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\bin\Debug\Gerenciamento_De_Chamados.pdb
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Gerenciamento_De_Chamados.exe
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Gerenciamento_De_Chamados.pdb
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Gerenciamento_De_Chamados.exe.config
+C:\Users\Gabriel\Desktop\Faculdade\pim\SistemaDesktop\Appparalogin\Appparalogin\bin\Debug\Gerenciamento_De_Chamados.exe.config
+C:\Users\Gabriel\Desktop\Faculdade\pim\SistemaDesktop\Appparalogin\Appparalogin\bin\Debug\Gerenciamento_De_Chamados.exe
+C:\Users\Gabriel\Desktop\Faculdade\pim\SistemaDesktop\Appparalogin\Appparalogin\bin\Debug\Gerenciamento_De_Chamados.pdb
+C:\Users\Gabriel\Desktop\Faculdade\pim\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Gerenciamento_De_Chamados.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Faculdade\pim\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Gerenciamento_De_Chamados.exe.config
+C:\Users\Gabriel\Desktop\Faculdade\pim\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.AberturaChamados.resources
+C:\Users\Gabriel\Desktop\Faculdade\pim\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.Cadastro_de_Usuarios.resources
+C:\Users\Gabriel\Desktop\Faculdade\pim\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.ContinuaçaoAbertura.resources
+C:\Users\Gabriel\Desktop\Faculdade\pim\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.GerenciarChamado.resources
+C:\Users\Gabriel\Desktop\Faculdade\pim\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.Home.resources
+C:\Users\Gabriel\Desktop\Faculdade\pim\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.Login.resources
+C:\Users\Gabriel\Desktop\Faculdade\pim\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Appparalogin.MenuRestrito.resources
+C:\Users\Gabriel\Desktop\Faculdade\pim\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Gerenciamento_De_Chamados.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\Faculdade\pim\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Gerenciamento_De_Chamados.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\Faculdade\pim\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Gerenciamento_De_Chamados.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Faculdade\pim\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Gerenciamento_De_Chamados.exe
+C:\Users\Gabriel\Desktop\Faculdade\pim\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Gerenciamento_De_Chamados.pdb
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Gerenciamento_De_Chamados.VisualizarChamado.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Gerenciamento_De_Chamados.AberturaChamados.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Gerenciamento_De_Chamados.Cadastro_de_Usuarios.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Gerenciamento_De_Chamados.ContinuaçaoAbertura.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Gerenciamento_De_Chamados.GerenciarChamado.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Gerenciamento_De_Chamados.Home.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Gerenciamento_De_Chamados.Login.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Appparalogin\Appparalogin\obj\Debug\Gerenciamento_De_Chamados.GerenciarUsuarios.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Gerenciamento_De_Chamados.exe.config
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Gerenciamento_De_Chamados.exe
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Gerenciamento_De_Chamados.pdb
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.csproj.AssemblyReference.cache
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.exe.config
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.AberturaChamados.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.Cadastro_de_Usuarios.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.ChamadoCriado.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.ContinuaçaoAbertura.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.GerenciarChamado.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.Home.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.Login.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.GerenciarUsuarios.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.Properties.Resources.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.VisualizarChamado.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.csproj.GenerateResource.cache
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.csproj.CoreCompileInputs.cache
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.exe
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.pdb
+C:\Users\Gabriel\Desktop\Faculdade\PIM\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Gerenciamento_De_Chamados.exe.config
+C:\Users\Gabriel\Desktop\Faculdade\PIM\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Gerenciamento_De_Chamados.exe
+C:\Users\Gabriel\Desktop\Faculdade\PIM\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Gerenciamento_De_Chamados.pdb
+C:\Users\Gabriel\Desktop\Faculdade\PIM\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Faculdade\PIM\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.AberturaChamados.resources
+C:\Users\Gabriel\Desktop\Faculdade\PIM\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.Cadastro_de_Usuarios.resources
+C:\Users\Gabriel\Desktop\Faculdade\PIM\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.ChamadoCriado.resources
+C:\Users\Gabriel\Desktop\Faculdade\PIM\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.ContinuaçaoAbertura.resources
+C:\Users\Gabriel\Desktop\Faculdade\PIM\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.GerenciarChamado.resources
+C:\Users\Gabriel\Desktop\Faculdade\PIM\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.Login.resources
+C:\Users\Gabriel\Desktop\Faculdade\PIM\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.GerenciarUsuarios.resources
+C:\Users\Gabriel\Desktop\Faculdade\PIM\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\Faculdade\PIM\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.VisualizarChamado.resources
+C:\Users\Gabriel\Desktop\Faculdade\PIM\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\Faculdade\PIM\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Faculdade\PIM\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.exe
+C:\Users\Gabriel\Desktop\Faculdade\PIM\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.pdb
+C:\Users\Gabriel\Desktop\Faculdade\PIM\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.FimChamado.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.FimChamado.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.HomeUsuario.resources
+C:\Users\frede\OneDrive\Área de Trabalho\Faculdade\GitHub FatalSystem\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.Editar_Usuario.resources
+C:\Users\Gabriel\Desktop\Faculdade\PIM\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.Editar_Usuario.resources
+C:\Users\Gabriel\Desktop\Faculdade\PIM\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.HomeAdmin.resources
+C:\Users\Gabriel\Desktop\Faculdade\PIM\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.HomeTecnico.resources
+C:\Users\Gabriel\Desktop\Faculdade\PIM\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.HomeFuncionario.resources
+C:\Users\Gabriel\Desktop\Faculdade\PIM\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.Visualizar_Usuario.resources
+C:\Users\Gabriel\Desktop\Faculdade\PIM\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.Responder_Chamado.resources
+C:\Users\Gabriel\Desktop\Faculdade\PIM\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.ContinuaçaoResponderChamado.resources
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\libSkiaSharp.dylib
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\x86\libSkiaSharp.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\x64\libSkiaSharp.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\arm64\libSkiaSharp.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Gerenciamento_De_Chamados.exe.config
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Gerenciamento_De_Chamados.exe
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Gerenciamento_De_Chamados.pdb
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Google.Apis.Auth.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Google.Apis.Core.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Google.Apis.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Google.Protobuf.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Grpc.Auth.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Grpc.Core.Api.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Grpc.Core.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Grpc.Net.Client.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Grpc.Net.Common.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\HarfBuzzSharp.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Newtonsoft.Json.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\OpenTK.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\OpenTK.GLControl.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\SkiaSharp.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\SkiaSharp.HarfBuzz.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\SkiaSharp.Views.WindowsForms.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\System.Buffers.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\System.Memory.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\System.Numerics.Vectors.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\System.Text.Encodings.Web.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\System.Text.Json.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Google.Apis.pdb
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Google.Apis.xml
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Google.Apis.Auth.pdb
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Google.Apis.Auth.xml
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Google.Apis.Core.pdb
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Google.Apis.Core.xml
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Google.Protobuf.pdb
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Google.Protobuf.xml
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Grpc.Auth.pdb
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Grpc.Auth.xml
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Grpc.Core.pdb
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Grpc.Core.xml
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Grpc.Core.Api.pdb
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Grpc.Core.Api.xml
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Grpc.Net.Client.pdb
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Grpc.Net.Client.xml
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Grpc.Net.Common.pdb
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Grpc.Net.Common.xml
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\HarfBuzzSharp.pdb
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Newtonsoft.Json.xml
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\OpenTK.pdb
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\OpenTK.xml
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\OpenTK.GLControl.pdb
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\OpenTK.GLControl.xml
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\SkiaSharp.pdb
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\SkiaSharp.HarfBuzz.pdb
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\SkiaSharp.Views.WindowsForms.pdb
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\System.Buffers.xml
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\System.Memory.xml
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\System.Net.Http.WinHttpHandler.xml
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\System.Numerics.Vectors.xml
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\System.Text.Encodings.Web.xml
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\System.Text.Json.xml
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.csproj.AssemblyReference.cache
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.csproj.SuggestedBindingRedirects.cache
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.exe.config
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.AberturaChamados.resources
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.AnaliseChamado.resources
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.Cadastro_de_Usuarios.resources
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.ChamadoCriado.resources
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.ContinuaçaoAbertura.resources
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.ContinuaçaoResponderChamado.resources
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.Editar_Usuario.resources
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.FimChamado.resources
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.GerenciarChamado.resources
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.HomeAdmin.resources
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.HomeTecnico.resources
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.HomeFuncionario.resources
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.Login.resources
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.GerenciarUsuarios.resources
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.Properties.Resources.resources
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.Relatorio.resources
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.Responder_Chamado.resources
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.VisualizarChamado.resources
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.Visualizar_Usuario.resources
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.csproj.GenerateResource.cache
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.csproj.CoreCompileInputs.cache
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerencia.52AE2C3A.Up2Date
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.exe
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.pdb
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\x86\libSkiaSharp.so
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\x64\libSkiaSharp.so
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\arm\libSkiaSharp.so
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\arm64\libSkiaSharp.so
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\riscv64\libSkiaSharp.so
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\loongarch64\libSkiaSharp.so
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\musl-x64\libSkiaSharp.so
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\musl-arm\libSkiaSharp.so
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\musl-arm64\libSkiaSharp.so
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\musl-riscv64\libSkiaSharp.so
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\musl-loongarch64\libSkiaSharp.so
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\ScottPlot.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\ScottPlot.WinForms.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\ScottPlot.xml
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\ScottPlot.WinForms.xml
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\obj\Debug\Gerenciamento_De_Chamados.FormRelatorioDetalhado.resources
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\itextsharp.dll
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Projeto\Gerenciamento-de-chamados\SistemaDesktop\Gerenciamento_De_Chamados\Gerenciamento_De_Chamados\bin\Debug\itextsharp.xml
