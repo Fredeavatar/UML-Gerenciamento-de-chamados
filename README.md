@@ -3,7 +3,7 @@
 # Fatal System - Gerenciamento de Chamados com Triagem por IA
 
 <p align="center">
-     <img src="img/logo_fatal_system.png" alt="logo da Fatal System" width="200">
+     <img src="docs/img/Fatal_System_Logo_FINAL.png" alt="logo da Fatal System" width="200">
      <h2 align="center"> Fatal System</h2>
 </p>
 
@@ -21,9 +21,9 @@
 
 > Status do Projeto: Em Desenvolvimento 🚧
 >
-> Documentação Completa (Diagramas): [PDF](link/para/Diagramas.pdf) 📄 
+> Documentação Completa (Diagramas): [PDF](docs/Links/Diagramas.pdf) 📄 
 >
-> Casos de Uso Detalhados: [PDF](link/para/UseCaseD.pdf) 📄
+> Casos de Uso Detalhados: [PDF](docs/Links/UseCaseD.pdf) 📄
 >
 > Vídeo do Projeto: [Link para Youtube, se houver] 📽️
 
@@ -172,3 +172,4 @@ cd Gerenciamento-de-chamados
    </tr>
    </table>
 </div>
+
