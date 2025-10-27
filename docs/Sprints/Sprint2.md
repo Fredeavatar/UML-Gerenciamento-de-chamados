@@ -5,7 +5,7 @@
 # Documentação - Sprint 2
 
 <p align="center">
-     <img src="../../img/Fatal_System_Logo_FINAL.png" alt="logo da Fatal System" width="200">
+     <img src="../img/Fatal_System_Logo_FINAL.png" alt="logo da Fatal System" width="200">
      <h2 align="center"> Fatal System</h2>
 </p>
 
