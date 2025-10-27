@@ -48,7 +48,7 @@ Desenvolvimento e entrega do **Diagrama de Atividades**, representando os fluxos
     * [Editar Usuário](../../Diagramas/5_Gerenciamento_de_Usuarios/Editar_Usuario_Atividade.png)
     * [Filtrar Relatório](../../Diagramas/7_Gerenciamento_de_Relatórios/Filtrar_Relatorio_Atividade.png)
     * [Gerar Relatório](../../Diagramas/7_Gerenciamento_de_Relatórios/Gerar_Relatorio_Atividade.png)
-    * [Fazer Login](../../Diagramas/3_Gestao_de_Acesso/fazerLoginAti.png) *(Nome do arquivo no seu PDF original)*
+    * [Fazer Login](../../Diagramas/3_Gestão_de_Acesso/fazerLoginAti.png) Arrumar depois
     * [Tratar Chamado](../../Diagramas/4_Gerenciamento_de_Chamados/Tratar_Chamado_Atividade.png)
     * [Treinar IA](../../Diagramas/6_Gerenciamento_de_IA/TreinarIA_Atividade.png)
     * [Visualizar Chamado](../../Diagramas/4_Gerenciamento_de_Chamados/Visualizar_Chamado_Atividade.png)
