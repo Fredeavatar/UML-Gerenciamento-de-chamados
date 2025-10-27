@@ -1,5 +1,7 @@
 # Backlog do Produto - Fatal System
 
+## O Backlog do Produto detalha as funcionalidades planejadas para o sistema, priorizadas e estimadas em Story Points. Ele é baseado nos Casos de Uso identificados e serve como guia para o desenvolvimento ao longo das Sprints.
+
 
 | Rank | Prioridade | User Story / Funcionalidade (Baseado nos Casos de Uso)                                                                                             | Story Points | Sprint | Requisito | Status |
 | :--: | :--------: | :--------------------------------------------------------------------------------------------------------------------------------------------------- | :----------: | :----: | :-------: | :----: |
