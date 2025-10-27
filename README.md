@@ -95,50 +95,9 @@ O Backlog do Produto detalha as funcionalidades planejadas para o sistema, prior
 </h4>
 
 ## 📖 Manual de Instalação <a id="manual"></a>
+Esta seção fornece as orientações necessárias para configurar o ambiente de desenvolvimento, preparar o banco de dados e executar a aplicação Fatal System localmente.
 
-### 🛠 Pré-requisitos
-
-* Visual Studio 2019 ou superior (com carga de trabalho ".NET desktop development")
-* .NET Framework 4.8 (ou a versão especificada no seu projeto)
-* **Acesso a uma instância do SQL Server (Azure SQL ou local).**
-* **As tabelas do banco de dados (`Usuario`, `Chamado`, `Historico`, `Arquivo`) devem ser criadas previamente.** 
-* Git instalado ([Download](https://git-scm.com/downloads))
-* **Uma Chave de API válida para o Google Gemini.**
-
----
-
-### 1. Clonar o Repositório
-
-```bash
-git clone [https://github.com/Frederico-Dellu/Gerenciamento-de-chamados.git](https://github.com/Frederico-Dellu/Gerenciamento-de-chamados.git)
-cd Gerenciamento-de-chamados
-```
----
-
-### 2. Configurar Conexão com Banco de Dados
-
-* Abra a solução (`.sln`) no Visual Studio.
-* **Localize e atualize a `connectionString`** nos arquivos de código-fonte que acessam o banco (ex: `Relatorio.cs`, `FormRelatorioDetalhado.cs`, `Funcoes.cs`, etc.). Você precisará informar o endereço do seu servidor, nome do banco, usuário e senha.
-* Certifique-se de que o banco de dados apontado pela `connectionString` **contenha as tabelas necessárias** para o sistema (`Usuario`, `Chamado`, `Historico`, `Arquivo`).
-* **Script de Criação do Banco:** [schema_criacao.sql](Script/ScriptSQL.sql) *(Para criar a estrutura exata das tabelas)*
-
----
-
-### 3. Configurar Chave da API Gemini
-
-* Abra o arquivo `App.config` na raiz do seu projeto.
-* **Localize ou adicione a chave `GEMINI_API_KEY`** dentro da seção `<appSettings>`.
-* **Insira sua chave de API válida** como valor para esta chave. A aplicação precisa desta chave para se comunicar com a IA Gemini.
-
----
-
-### 4. Compilar e Executar
-
-* No Visual Studio, vá em `Build` > `Rebuild Solution` (Compilar > Recriar Solução).
-* Após a compilação bem-sucedida, pressione `F5` ou clique no botão "Start" (Iniciar) para executar a aplicação.
-* Utilize um usuário e senha válidos (previamente cadastrados no seu banco de dados) para fazer login.
-
----
+➡️ **[Acesse o Manual de Instalação detalhado aqui](docs/Manual_Instalação.md)**
 
 ## 🎓 Equipe <a id="equipe"></a>
 
@@ -152,12 +111,13 @@ cd Gerenciamento-de-chamados
    </tr>
    <tr>
      <td>Frederico Barreto Godoi Dellú</td>
-     <td>Desenvolvedor / Documentação</td>
+     <td>Product Owner / Documentação</td>
      <td><a href="https://github.com/Fredeavatar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a></td>
      <td><a href="https://www.instagram.com/fredericodellu_?igsh=MXcwa3d0djQzZzZ5MQ=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a></td>
    </tr>
    </table>
 </div>
+
 
 
 
