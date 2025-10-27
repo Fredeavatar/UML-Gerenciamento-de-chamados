@@ -5,12 +5,13 @@
 # Documentação - Sprint 9
 
 <p align="center">
-     <img src="../docs/img/Fatal_System_Logo_FINAL.png" alt="logo da Fatal System" width="200">
+     <img src="../img/Fatal_System_Logo_FINAL.png" alt="logo da Fatal System" width="200">
      <h2 align="center"> Fatal System</h2>
 </p>
 
 <p align="center">
  | <a href="#objetivo">Objetivo da Sprint</a> |
+ <a href="#backlog-sprint">Backlog da Sprint</a> |
  <a href="#realizacoes">Principais Realizações</a> |
  <a href="#dor">DoR</a> |
  <a href="#dod">DoD</a> |
@@ -23,21 +24,22 @@
 
 ## 🏅 Objetivo da Sprint <a id="objetivo"></a>
 
-Definição e modelagem do Diagrama de Objetos do sistema. O objetivo é representar instâncias concretas das classes em um momento específico (uma "fotografia"), demonstrando exemplos reais de objetos, seus estados (valores dos atributos) e relacionamentos para validar a modelagem de classes e os fluxos.
+Definição e modelagem do **Diagrama de Objetos**, representando instâncias concretas das classes em um momento específico ("fotografia") para validar a modelagem de classes e os fluxos de interação com exemplos reais.
 
-## 📋 Principais Realizações da Sprint <a id="realizacoes"></a>
+## 📋 Backlog da Sprint <a id="backlog-sprint"></a>
 
-* **Modelagem de Objetos Instanciados:**
-    * `Frederico: Funcionario` (IdUsuario=2, Nome=Frederico, CPF=..., RG=..., FuncaoUsuario=Operador, Sexo=Masculino, Setor=RH, ...).
-    * `chamado15: Chamado` (IdChamado=15, FK_IdUsuario=2, PrioridadeChamado=Media, Titulo="Impressora queimou", Categoria=Hardware, DataChamado=15/01/2025 11:00, StatusChamado=Pendente, ...).
-    * `anexo01: Arquivo` (IdArquivo=1, TipoArquivo=png, NomeArquivo="ImpressoraQueima...", FK_IdChamado=15).
-    * `resposta001: Historico` (IdHistorico=1, FK_IdChamado=15, DataSolucao=15/01/2025 09:30, Acao=Criação, Solucao="Chamado registrado...").
-    * `resposta002: Historico` (IdHistorico=2, FK_IdChamado=15, DataSolucao=15/01/2025 09:30, Acao=Mudança de Status, Solucao="O status... 'Pendente' para 'Em Andamento'").
-    * (Incluídos outros objetos `Historico` do exemplo na Página 19 do `Diagramas.pdf`).
-* **Representação dos Relacionamentos (Links):**
-    * Link entre `Frederico: Funcionario` e `chamado15: Chamado`.
-    * Link entre `chamado15: Chamado` e `anexo01: Arquivo`.
-    * Links entre `chamado15: Chamado` e todos os seus objetos `Historico` associados (`resposta001` a `resposta005`).
+*(Itens do Backlog Geral abordados ou iniciados nesta Sprint)*
+
+| Rank | Prioridade | User Story / Funcionalidade                                                                                             | Story Points | Sprint | Requisito | Status |
+| :--: | :--------: | :----------------------------------------------------------------------------------------------------------------------- | :----------: | :----: | :-------: | :----: |
+|  -   |    Média   | **Validação da Modelagem através de Exemplo Concreto** |      ?       |    9   |    N/A    |   ✅   |
+
+## 🚀 Principais Realizações da Sprint <a id="realizacoes"></a>
+
+* **Modelagem de Objetos Instanciados:** Criação de cenários exemplo com instâncias das classes e seus atributos preenchidos com dados fictícios:
+    * Cenário Chamado: `Frederico: Funcionario`, `chamado15: Chamado`, `anexo01: Arquivo`, `resposta001` a `resposta005`: `Historico` ([Visualizar](../../Diagramas/4_Gerenciamento_de_Chamados/Diagrama_de_Objetos_Chamado.png)).
+    * Cenário Usuário: `adminFrederico: admin`, `usuarioGabriel: Funcionario` ([Visualizar](../../Diagramas/5_Gerenciamento_de_Usuarios/Objeto_Usuario.png)).
+* **Representação dos Relacionamentos (Links):** Demonstração visual das conexões entre os objetos instanciados nos cenários.
 
 ## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
 
@@ -67,10 +69,10 @@ Definição e modelagem do Diagrama de Objetos do sistema. O objetivo é represe
 
 ## 🔥 Desafios Enfrentados <a id="desafios"></a>
 
-* Selecionar exemplos representativos que cubram os principais casos de uso do sistema.
-* Garantir que os estados (valores dos atributos) dos objetos fossem coerentes e refletissem o comportamento esperado no cenário escolhido.
-* Ajustar o nível de detalhamento para que o diagrama de objetos fosse compreensível e útil para a equipe.
-* Manter a consistência com os diagramas de classes e sequência previamente elaborados.
+* Selecionar exemplos representativos que cobrissem cenários chave.
+* Garantir a coerência dos estados (valores) dos objetos com o comportamento esperado.
+* Ajustar o nível de detalhe para manter o diagrama compreensível.
+* Manter a consistência com diagramas de classes e sequência.
 
 ## 🎓 Equipe <a id="equipe"></a>
 
