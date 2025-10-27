@@ -5,12 +5,13 @@
 # Documentação - Sprint 7
 
 <p align="center">
-     <img src="../docs/img/Fatal_System_Logo_FINAL.png" alt="logo da Fatal System" width="200">
+     <img src="../img/Fatal_System_Logo_FINAL.png" alt="logo da Fatal System" width="200">
      <h2 align="center"> Fatal System</h2>
 </p>
 
 <p align="center">
  | <a href="#objetivo">Objetivo da Sprint</a> |
+ <a href="#backlog-sprint">Backlog da Sprint</a> |
  <a href="#realizacoes">Principais Realizações</a> |
  <a href="#dor">DoR</a> |
  <a href="#dod">DoD</a> |
@@ -23,18 +24,27 @@
 
 ## 🏅 Objetivo da Sprint <a id="objetivo"></a>
 
-Definição e modelagem do Diagrama de Componentes e do Diagrama de Implantação do sistema. O objetivo é especificar a estrutura modular, visualizar a distribuição física/lógica na infraestrutura e apoiar decisões de arquitetura, escalabilidade e manutenção.
+Definição e modelagem do **Diagrama de Componentes** e do **Diagrama de Implantação**. O objetivo é especificar a estrutura modular, visualizar a distribuição física/lógica na infraestrutura e apoiar decisões de arquitetura.
 
-## 📋 Principais Realizações da Sprint <a id="realizacoes"></a>
+## 📋 Backlog da Sprint <a id="backlog-sprint"></a>
+
+*(Itens do Backlog Geral abordados ou iniciados nesta Sprint)*
+
+| Rank | Prioridade | User Story / Funcionalidade                                                                                             | Story Points | Sprint | Requisito | Status |
+| :--: | :--------: | :----------------------------------------------------------------------------------------------------------------------- | :----------: | :----: | :-------: | :----: |
+|  -   |    Alta    | **Definição da Arquitetura de Componentes** |      ?       |    7   |    N/A    |   ✅   |
+|  -   |    Alta    | **Definição da Arquitetura de Implantação** |      ?       |    7   |    N/A    |   ✅   |
+
+## 🚀 Principais Realizações da Sprint <a id="realizacoes"></a>
 
 * **Diagrama de Componentes:**
-    * Identificação e modelagem dos componentes: `App Windows Forms`, `Serviço de IA`, `SQL Server em nuvem Azure` (`Diagramas.pdf`, página 30).
-    * Especificação das interfaces providas e requeridas: `IAcessoADados`, `IServicoDeSugestao`, `AcessoADadosSQLServer`, `ServicoDeSugestaoIA`.
-    * Definição das dependências entre os componentes (ex: App Forms depende de IAcessoADados e IServicoDeSugestao).
+    * Identificação e modelagem dos componentes: `App Windows Forms`, `Serviço de IA`, `SQL Server em nuvem Azure`.
+    * Especificação das interfaces e dependências.
+    * Visualização: [**Diagrama de Componentes**](../../Diagramas/1_Arquitetura/Diagrama_De_Componentes.png).
 * **Diagrama de Implantação:**
-    * Modelagem da infraestrutura: Nó do Cliente (onde roda o App Windows Forms), Nó do Servidor de Banco de Dados (Azure SQL), Nó do Serviço de IA (nuvem Google). *(Inferido do diagrama de componentes e contexto)*.
-    * Distribuição dos artefatos/componentes nos nós.
-    * Definição dos protocolos de comunicação (ex: TDS, HTTPS).
+    * Modelagem da infraestrutura: Nó do Cliente (App Desktop), Nó do BD (Azure SQL), Nó do Serviço IA (Cloud).
+    * Distribuição dos componentes nos nós.
+    * Visualização: [**Diagrama de Implantação**](../../Diagramas/1_Arquitetura/Diagrama_de_Implantação.png).
 
 ## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
 
@@ -64,10 +74,10 @@ Definição e modelagem do Diagrama de Componentes e do Diagrama de Implantaçã
 
 ## 🔥 Desafios Enfrentados <a id="desafios"></a>
 
-* Mapeamento claro dos componentes reutilizáveis: foi necessário revisar a arquitetura para garantir baixo acoplamento e alta coesão.
-* Definição da infraestrutura ideal: a equipe precisou considerar custos, segurança e desempenho ao propor a implantação.
-* Integração com serviços externos: o uso da IA como serviço exigiu análise cuidadosa sobre pontos de falha e latência.
-* Representar corretamente a implantação distribuída (Cliente/Nuvem).
+* Mapeamento claro dos componentes reutilizáveis.
+* Definição da infraestrutura ideal considerando custos e segurança.
+* Análise da integração com serviços externos (IA).
+* Representar corretamente a implantação distribuída.
 
 ## 🎓 Equipe <a id="equipe"></a>
 
