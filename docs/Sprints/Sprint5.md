@@ -44,7 +44,7 @@ Avançar na modelagem da interação, focando no **Diagrama de Comunicação** (
 
 * **Levantamento de Entidades:** Identificação dos objetos/componentes e suas responsabilidades.
 * **Construção do Diagrama de Comunicação:** Mapeamento das interações, mensagens e relacionamentos para:
-    * [Comunicação Fazer Login](../../Diagramas/3_Gestao_de_Acesso/Comunicacao_Fazer_Login.png)
+    * [Comunicação Fazer Login](../../Diagramas/3_Gestão_de_Acesso/Comunicação_Fazer_Login.png)
     * [Comunicação Adicionar Usuário](../../Diagramas/5_Gerenciamento_de_Usuarios/Adicionar_Usuario_Comunicação.png)
     * [Comunicação Editar Usuário](../../Diagramas/5_Gerenciamento_de_Usuarios/Editar_Usuario_Comunicação.png)
     * [Comunicação Visualizar Usuário](../../Diagramas/5_Gerenciamento_de_Usuarios/Visualizar_Usuario_Comunicação.png)
