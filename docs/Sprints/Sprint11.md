@@ -5,12 +5,13 @@
 # Documentação - Sprint 11
 
 <p align="center">
-     <img src="../docs/img/Fatal_System_Logo_FINAL.png" alt="logo da Fatal System" width="200">
+     <img src="../img/Fatal_System_Logo_FINAL.png" alt="logo da Fatal System" width="200">
      <h2 align="center"> Fatal System</h2>
 </p>
 
 <p align="center">
  | <a href="#objetivo">Objetivo da Sprint</a> |
+ <a href="#backlog-sprint">Backlog da Sprint</a> |
  <a href="#realizacoes">Principais Realizações</a> |
  <a href="#dor">DoR</a> |
  <a href="#dod">DoD</a> |
@@ -23,16 +24,22 @@
 
 ## 🏅 Objetivo da Sprint <a id="objetivo"></a>
 
-Definição e modelagem do Diagrama de Estrutura Composta do sistema, focando no componente `ChamadoRepository`. O objetivo é representar a estrutura interna, detalhar como é composto por partes internas (`Funcoes`, `HistoricoRepository`) e como essas partes interagem via interfaces (`IChamadoRepository`).
+Definição e modelagem do **Diagrama de Estrutura Composta**, focando no `ChamadoRepository` para representar sua estrutura interna, detalhar suas partes (`Funcoes`, `HistoricoRepository`) e como interagem via interfaces (`IChamadoRepository`).
 
-## 📋 Principais Realizações da Sprint <a id="realizacoes"></a>
+## 📋 Backlog da Sprint <a id="backlog-sprint"></a>
+
+*(Itens do Backlog Geral abordados ou iniciados nesta Sprint)*
+
+| Rank | Prioridade | User Story / Funcionalidade                                                                                             | Story Points | Sprint | Requisito | Status |
+| :--: | :--------: | :----------------------------------------------------------------------------------------------------------------------- | :----------: | :----: | :-------: | :----: |
+|  -   |    Média   | **Detalhamento da Arquitetura Interna** (Foco no `ChamadoRepository`) |      ?       |   11   |    N/A    |   ✅   |
+
+## 🚀 Principais Realizações da Sprint <a id="realizacoes"></a>
 
 * **Modelagem da Estrutura Interna do `ChamadoRepository`:**
     * Identificação das partes/dependências internas: `_funcoesHelper: Funcoes` e `_historicoRepo: HistoricoRepository`.
-    * Representação visual da composição no diagrama (`Diagramas.pdf`, página 11).
-* **Definição das Conexões e Portas:**
-    * Especificação da interface `IChamadoRepository` exposta pelo componente.
-    * Demonstração das conexões internas (como `ChamadoRepository` utiliza `Funcoes` e `HistoricoRepository`).
+* **Visualização:** [**Diagrama de Estrutura Composta**](../../Diagramas/4_Gerenciamento_de_Chamados/Diagrama_de_Estrutura_Composta.png).
+* **Definição das Conexões e Portas:** Especificação da interface `IChamadoRepository` e das conexões internas.
 
 ## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
 
@@ -62,10 +69,10 @@ Definição e modelagem do Diagrama de Estrutura Composta do sistema, focando no
 
 ## 🔥 Desafios Enfrentados <a id="desafios"></a>
 
-* Detalhar a estrutura interna sem perder a visão geral do sistema, mantendo o equilíbrio entre granularidade e complexidade.
-* Garantir a clareza na definição das conexões internas, especialmente em componentes com várias partes.
-* Ajustar os diagramas para refletir as interações reais já previstas nos diagramas de sequência e componentes.
-* Promover alinhamento entre os times de desenvolvimento e arquitetura para adoção da estrutura definida.
+* Detalhar a estrutura interna mantendo clareza.
+* Garantir clareza nas conexões internas.
+* Ajustar o diagrama para refletir interações reais.
+* Promover alinhamento entre times sobre a estrutura.
 
 ## 🎓 Equipe <a id="equipe"></a>
 
