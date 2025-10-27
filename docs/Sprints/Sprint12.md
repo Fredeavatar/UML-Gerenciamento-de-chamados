@@ -5,12 +5,13 @@
 # Documentação - Sprint 12
 
 <p align="center">
-     <img src="../docs/img/Fatal_System_Logo_FINAL.png" alt="logo da Fatal System" width="200">
+     <img src="../img/Fatal_System_Logo_FINAL.png" alt="logo da Fatal System" width="200">
      <h2 align="center"> Fatal System</h2>
 </p>
 
 <p align="center">
  | <a href="#objetivo">Objetivo da Sprint</a> |
+ <a href="#backlog-sprint">Backlog da Sprint</a> |
  <a href="#realizacoes">Principais Realizações</a> |
  <a href="#dor">DoR</a> |
  <a href="#dod">DoD</a> |
@@ -23,13 +24,21 @@
 
 ## 🏅 Objetivo da Sprint <a id="objetivo"></a>
 
-Realizar a **revisão e validação final** de todas as sprints anteriores e dos diagramas UML elaborados. O objetivo é garantir a consistência, integridade e alinhamento dos modelos com os requisitos do sistema, consolidando a documentação técnica e arquitetural do projeto.
+Realizar a **revisão e validação final** de todas as sprints anteriores e dos diagramas UML elaborados, garantindo consistência, integridade e alinhamento com os requisitos, consolidando a documentação técnica e arquitetural do projeto.
 
-## 📋 Principais Realizações da Sprint <a id="realizacoes"></a>
+## 📋 Backlog da Sprint <a id="backlog-sprint"></a>
 
-* **Revisão dos Diagramas:** Análise detalhada de todos os 13 diagramas UML (Pacotes, Classes, Componentes, Implantação, Objetos, Estrutura Composta, Casos de Uso, Atividades, Máquina de Estados, Sequência, Comunicação, Visão Geral da Interação, Temporização) para correção de inconsistências e atualização conforme feedbacks.
-* **Validação dos Requisitos:** Verificação do alinhamento entre os diagramas e os requisitos funcionais/não funcionais, incluindo revisão dos critérios de aceitação e Casos de Uso detalhados (`UseCaseD.pdf`). Realização de sessões de feedback com stakeholders.
-* **Ajustes e Documentação Final:** Consolidação das versões finais dos diagramas e da documentação do projeto. Definição de diretrizes para manutenção futura.
+*(Itens do Backlog Geral abordados ou iniciados nesta Sprint)*
+
+| Rank | Prioridade | User Story / Funcionalidade                                                                                             | Story Points | Sprint | Requisito | Status |
+| :--: | :--------: | :----------------------------------------------------------------------------------------------------------------------- | :----------: | :----: | :-------: | :----: |
+|  -   |    Alta    | **Revisão Final da Documentação e Modelagem** |      ?       |   12   |    N/A    |   ✅   |
+
+## 🚀 Principais Realizações da Sprint <a id="realizacoes"></a>
+
+* **Revisão dos Diagramas:** Análise detalhada de todos os 13 diagramas UML (Pacotes, Classes, Componentes, Implantação, Objetos, Estrutura Composta, Casos de Uso, Atividades, Máquina de Estados, Sequência, Comunicação, Visão Geral da Interação, Temporização) para correção de inconsistências e atualização. ([Ver PDF Consolidado](../../docs/Links/Diagramas.pdf)). *(Link atualizado para a pasta docs/Links)*
+* **Validação dos Requisitos:** Verificação do alinhamento entre diagramas e requisitos (funcionais/não funcionais), incluindo Casos de Uso detalhados ([Ver PDF Detalhado](../../docs/Links/UseCaseD.pdf)). *(Link atualizado)*. Sessões de feedback com stakeholders.
+* **Ajustes e Documentação Final:** Consolidação das versões finais dos diagramas e da documentação.
 
 ## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
 
@@ -59,10 +68,10 @@ Realizar a **revisão e validação final** de todas as sprints anteriores e dos
 
 ## 🔥 Desafios Enfrentados <a id="desafios"></a>
 
-* Identificação de inconsistências que exigiram replanejamento de alguns diagramas e funcionalidades.
-* Necessidade de alinhar visões entre diferentes times técnicos e stakeholders, garantindo entendimento comum.
-* Gestão do tempo para realizar revisões detalhadas sem impactar o cronograma geral.
-* Adequação dos diagramas para facilitar a comunicação e o entendimento, sem perder detalhes importantes.
+* Identificação de inconsistências que exigiram replanejamento de alguns diagramas.
+* Necessidade de alinhar visões entre diferentes times e stakeholders.
+* Gestão do tempo para realizar revisões detalhadas.
+* Adequação dos diagramas para comunicação eficaz.
 
 ## 🎓 Equipe <a id="equipe"></a>
 
