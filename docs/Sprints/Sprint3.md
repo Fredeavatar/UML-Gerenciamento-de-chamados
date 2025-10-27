@@ -5,12 +5,13 @@
 # Documentação - Sprint 3
 
 <p align="center">
-     <img src="../docs/img/Fatal_System_Logo_FINAL.png" alt="logo da Fatal System" width="200">
+     <img src="../img/Fatal_System_Logo_FINAL.png" alt="logo da Fatal System" width="200">
      <h2 align="center"> Fatal System</h2>
 </p>
 
 <p align="center">
  | <a href="#objetivo">Objetivo da Sprint</a> |
+ <a href="#backlog-sprint">Backlog da Sprint</a> |
  <a href="#realizacoes">Principais Realizações</a> |
  <a href="#dor">DoR</a> |
  <a href="#dod">DoD</a> |
@@ -23,14 +24,37 @@
 
 ## 🏅 Objetivo da Sprint <a id="objetivo"></a>
 
-Desenvolvimento e entrega do **Diagrama de Atividades**, representando os fluxos principais de uso do sistema. O objetivo é alinhar a equipe e stakeholders sobre os processos de negócio antes de iniciar a modelagem detalhada dos casos de uso e da arquitetura.
+Desenvolvimento e entrega do **Diagrama de Atividades**, representando os fluxos principais de uso do sistema (baseados nos Casos de Uso da Sprint 2). O objetivo é alinhar a equipe e stakeholders sobre os processos de negócio antes de iniciar a modelagem detalhada da arquitetura.
 
-## 📋 Principais Realizações da Sprint <a id="realizacoes"></a>
+## 📋 Backlog da Sprint <a id="backlog-sprint"></a>
 
-* **Levantamento dos Fluxos de Negócio:** Identificação e priorização dos processos principais a serem modelados (ex: Login, Criar Chamado, Tratar Chamado, etc.). Coleta de informações com PO e UX.
-* **Criação do Diagrama de Atividades:** Desenho do diagrama UML representando atividades, decisões, paralelismos e fluxos alternativos para os processos priorizados.
-* **Revisão Técnica e Ajustes:** Apresentação do diagrama à equipe de desenvolvimento para validação técnica e ajustes baseados em feedbacks sobre clareza e completude.
-* **Documentação e Versionamento:** Criação de documentação complementar explicando os elementos do diagrama e versionamento dos artefatos no repositório.
+*(Itens do Backlog Geral abordados ou iniciados nesta Sprint)*
+
+| Rank | Prioridade | User Story / Funcionalidade (Baseado nos Casos de Uso)                                                                                             | Story Points | Sprint | Requisito | Status |
+| :--: | :--------: | :--------------------------------------------------------------------------------------------------------------------------------------------------- | :----------: | :----: | :-------: | :----: |
+|  -   |    Alta    | **Modelagem dos Fluxos de Atividades Principais** |      ?       |    3   |    N/A    |   ✅   |
+|  6   |    Alta    | Como Admin, quero adicionar um novo usuário... *(Fluxo detalhado)* |      8       |    3   |    R06    |   ✅   |
+|  *...*| *...* | *(Outros fluxos mapeados: Login, Criar/Tratar Chamado, Filtrar Relatório, etc.)* |      ?       |    3   |     ?     |   ✅   |
+
+*(Nota: O principal foco foi a modelagem dos fluxos)*
+
+## 🚀 Principais Realizações da Sprint <a id="realizacoes"></a>
+
+* **Levantamento dos Fluxos de Negócio:** Identificação e priorização dos processos principais a serem modelados.
+* **Criação dos Diagramas de Atividades:** Desenho dos diagramas UML com atividades, decisões, paralelismos e swimlanes para:
+    * [Adicionar Usuário](../../Diagramas/5_Gerenciamento_de_Usuarios/Adicionar_Usuario_Atividade.png)
+    * [Anexar Arquivo](../../Diagramas/4_Gerenciamento_de_Chamados/Arquivo_Atividade.png)
+    * [Criar Chamado](../../Diagramas/4_Gerenciamento_de_Chamados/Criar_Chamado_Atividade.png)
+    * [Editar Usuário](../../Diagramas/5_Gerenciamento_de_Usuarios/Editar_Usuario_Atividade.png)
+    * [Filtrar Relatório](../../Diagramas/7_Gerenciamento_de_Relatórios/Filtrar_Relatorio_Atividade.png)
+    * [Gerar Relatório](../../Diagramas/7_Gerenciamento_de_Relatórios/Gerar_Relatorio_Atividade.png)
+    * [Fazer Login](../../Diagramas/3_Gestao_de_Acesso/fazerLoginAti.png) *(Nome do arquivo no seu PDF original)*
+    * [Tratar Chamado](../../Diagramas/4_Gerenciamento_de_Chamados/Tratar_Chamado_Atividade.png)
+    * [Treinar IA](../../Diagramas/6_Gerenciamento_de_IA/TreinarIA_Atividade.png)
+    * [Visualizar Chamado](../../Diagramas/4_Gerenciamento_de_Chamados/Visualizar_Chamado_Atividade.png)
+    * [Visualizar Usuário](../../Diagramas/5_Gerenciamento_de_Usuarios/Visualizar_Usuario_Atividade.png)
+* **Revisão Técnica e Ajustes:** Validação dos diagramas com a equipe e ajustes para clareza e completude.
+* **Documentação e Versionamento:** Documentação complementar e versionamento no repositório.
 
 ## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
 
