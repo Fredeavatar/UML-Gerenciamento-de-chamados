@@ -1,4 +1,3 @@
-# PIM - Análise e Desenvolvimento de Sistemas (UNIP SJC)
 
 # Fatal System - Gerenciamento de Chamados com Triagem por IA
 
@@ -80,6 +79,7 @@ O desafio consiste em criar um sistema de gerenciamento de chamados otimizado po
 ## 📖 Manual de Instalação <a id="manual"></a>
 
 ➡️ **[Acesse o Manual de Instalação detalhado aqui](docs/Manual_Instalação.md)**
+
 
 
 
