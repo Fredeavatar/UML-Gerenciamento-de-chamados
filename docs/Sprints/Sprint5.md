@@ -5,12 +5,13 @@
 # Documentação - Sprint 5
 
 <p align="center">
-     <img src="../docs/img/Fatal_System_Logo_FINAL.png" alt="logo da Fatal System" width="200">
+     <img src="../img/Fatal_System_Logo_FINAL.png" alt="logo da Fatal System" width="200">
      <h2 align="center"> Fatal System</h2>
 </p>
 
 <p align="center">
  | <a href="#objetivo">Objetivo da Sprint</a> |
+ <a href="#backlog-sprint">Backlog da Sprint</a> |
  <a href="#realizacoes">Principais Realizações</a> |
  <a href="#dor">DoR</a> |
  <a href="#dod">DoD</a> |
@@ -23,15 +24,39 @@
 
 ## 🏅 Objetivo da Sprint <a id="objetivo"></a>
 
-Avançar na modelagem da interação entre objetos e componentes, focando na criação do Diagrama de Comunicação e do Diagrama de Visão Geral da Interação. O objetivo é compreender como os elementos do sistema colaboram para realizar funcionalidades, suportando o desenvolvimento e a arquitetura.
+Avançar na modelagem da interação, focando no **Diagrama de Comunicação** (estrutura da colaboração) e no **Diagrama de Visão Geral da Interação** (fluxo entre interações), para entender como os elementos colaboram nas funcionalidades.
 
-## 📋 Principais Realizações da Sprint <a id="realizacoes"></a>
+## 📋 Backlog da Sprint <a id="backlog-sprint"></a>
 
-* **Levantamento de Entidades:** Identificação dos principais objetos e componentes (Forms, Repositories, Classes de Domínio) e suas responsabilidades em processos como Login e Adição/Edição de Usuários.
-* **Construção do Diagrama de Comunicação:** Mapeamento das interações, mensagens numeradas e relacionamentos entre objetos para casos de uso específicos (ex: Login, AddUsuario, EditarUsuario - conforme `Diagramas.pdf`, páginas 3, 17, etc.). Foco na colaboração estrutural.
-* **Construção do Diagrama de Visão Geral da Interação:** Desenvolvimento de diagramas de alto nível mostrando a sequência de interações entre diferentes partes do sistema (ex: Visão Geral Chamados, Visão Geral Usuários - `Diagramas.pdf`, páginas 12, 29).
-* **Validação e Ajustes:** Apresentação dos diagramas para feedback e realização de ajustes para clareza e alinhamento com os requisitos.
-* **Documentação e Versionamento:** Detalhamento das interações e inclusão dos diagramas na documentação do projeto.
+*(Itens do Backlog Geral abordados ou iniciados nesta Sprint)*
+
+| Rank | Prioridade | User Story / Funcionalidade (Baseado nos Casos de Uso)                                                                                             | Story Points | Sprint | Requisito | Status |
+| :--: | :--------: | :--------------------------------------------------------------------------------------------------------------------------------------------------- | :----------: | :----: | :-------: | :----: |
+|  1   |    Alta    | Como usuário, quero fazer login no sistema... *(Modelagem da comunicação)* |      8       |    1   |    R01    |   ✅   |
+|  6   |    Alta    | Como Admin, quero adicionar um novo usuário... *(Modelagem da comunicação)* |      8       |    3   |    R06    |   ✅   |
+|  7   |    Média   | Como Admin, quero editar os dados de um usuário existente. *(Modelagem da comunicação)* |      5       |    4   |    R07    |   ✅   |
+|  8   |    Média   | Como Admin, quero visualizar os detalhes de um usuário específico. *(Modelagem da comunicação)* |      3       |    4   |    R08    |   ✅   |
+|  9   |    Média   | Como Equipe de TI, quero gerar relatórios... *(Modelagem da comunicação)* |      13      |    5   |    R09    |   ✅   |
+|  10  |    Média   | Como Equipe de TI, quero filtrar relatórios... *(Modelagem da comunicação)* |      8       |    5   |    R10    |   ✅   |
+|  -   |    N/A     | Modelagem da Visão Geral das Interações (Chamados e Usuários)                                                                                      |      ?       |    5   |    N/A    |   ✅   |
+
+## 🚀 Principais Realizações da Sprint <a id="realizacoes"></a>
+
+* **Levantamento de Entidades:** Identificação dos objetos/componentes e suas responsabilidades.
+* **Construção do Diagrama de Comunicação:** Mapeamento das interações, mensagens e relacionamentos para:
+    * [Comunicação Fazer Login](../../Diagramas/3_Gestao_de_Acesso/Comunicacao_Fazer_Login.png)
+    * [Comunicação Adicionar Usuário](../../Diagramas/5_Gerenciamento_de_Usuarios/Adicionar_Usuario_Comunicação.png)
+    * [Comunicação Editar Usuário](../../Diagramas/5_Gerenciamento_de_Usuarios/Editar_Usuario_Comunicação.png)
+    * [Comunicação Visualizar Usuário](../../Diagramas/5_Gerenciamento_de_Usuarios/Visualizar_Usuario_Comunicação.png)
+    * [Comunicação Editar Chamado](../../Diagramas/4_Gerenciamento_de_Chamados/Editar_Chamado_Comunicação.png)
+    * [Comunicação Triar Chamado](../../Diagramas/4_Gerenciamento_de_Chamados/Triar_Chamado_Comunicação.png)
+    * [Comunicação Filtrar Relatório](../../Diagramas/7_Gerenciamento_de_Relatórios/Filtrar_Relatorio_Comunicação.png)
+    * [Comunicação Gerar Relatório](../../Diagramas/7_Gerenciamento_de_Relatórios/Gerar_Relatorio_Comunicação.png)
+* **Construção do Diagrama de Visão Geral da Interação:** Desenvolvimento de diagramas de alto nível:
+    * [Visão Geral da Interação Chamados](../../Diagramas/4_Gerenciamento_de_Chamados/Diagrama_de_Visão_Geral_da_interação.png)
+    * [Visão Geral da Interação Gerenciamento de Usuários](../../Diagramas/5_Gerenciamento_de_Usuarios/Visão_Geral_Usuario.png)
+* **Validação e Ajustes:** Apresentação e refinamento dos diagramas.
+* **Documentação e Versionamento:** Inclusão na documentação do projeto.
 
 ## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
 
@@ -61,10 +86,10 @@ Avançar na modelagem da interação entre objetos e componentes, focando na cri
 
 ## 🔥 Desafios Enfrentados <a id="desafios"></a>
 
-* Complexidade em representar claramente as múltiplas interações entre objetos sem perder a simplicidade visual.
-* Alinhamento das interações com as funcionalidades definidas em sprints anteriores para garantir consistência.
-* Garantir que a visão geral seja compreensível para diferentes públicos, do time técnico a stakeholders não técnicos.
-* Necessidade de iterar o diagrama para incorporar feedbacks diversos em pouco tempo.
+* Complexidade em representar claramente as múltiplas interações entre objetos.
+* Alinhamento das interações com as funcionalidades definidas anteriormente.
+* Garantir que a visão geral fosse compreensível para diferentes públicos.
+* Necessidade de iterar o diagrama para incorporar feedbacks.
 
 ## 🎓 Equipe <a id="equipe"></a>
 
