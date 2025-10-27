@@ -5,12 +5,13 @@
 # Documentação - Sprint 4
 
 <p align="center">
-     <img src="../docs/img/Fatal_System_Logo_FINAL.png" alt="logo da Fatal System" width="200">
+     <img src="../img/Fatal_System_Logo_FINAL.png" alt="logo da Fatal System" width="200">
      <h2 align="center"> Fatal System</h2>
 </p>
 
 <p align="center">
  | <a href="#objetivo">Objetivo da Sprint</a> |
+ <a href="#backlog-sprint">Backlog da Sprint</a> |
  <a href="#realizacoes">Principais Realizações</a> |
  <a href="#dor">DoR</a> |
  <a href="#dod">DoD</a> |
@@ -23,14 +24,23 @@
 
 ## 🏅 Objetivo da Sprint <a id="objetivo"></a>
 
-Avançar na modelagem dinâmica do sistema com foco na criação do Diagrama de Transições de Estados (ou Diagrama de Máquina de Estados), detalhando as mudanças de estado dos principais objetos (ex: `Chamado`). Essencial para garantir o controle correto do ciclo de vida dos elementos e facilitar a implementação dos fluxos de negócio.
+Avançar na modelagem dinâmica com foco na criação do **Diagrama de Máquina de Estados**, detalhando as mudanças de estado do objeto `Chamado`. Essencial para controlar o ciclo de vida e facilitar a implementação dos fluxos de negócio.
 
-## 📋 Principais Realizações da Sprint <a id="realizacoes"></a>
+## 📋 Backlog da Sprint <a id="backlog-sprint"></a>
 
-* **Identificação de Estados e Eventos:** Mapeamento dos estados possíveis (ex: Pendente, Em Andamento, Resolvido, Finalizado para `Chamado`) e os eventos/ações que causam as transições.
-* **Construção do Diagrama:** Criação do diagrama UML representando estados, transições, eventos e condições.
-* **Validação Técnica:** Revisão do diagrama pela equipe para garantir aderência às regras de negócio e consistência.
-* **Documentação e Versionamento:** Detalhamento de cada estado/transição e inclusão no repositório.
+*(Itens do Backlog Geral abordados ou iniciados nesta Sprint)*
+
+| Rank | Prioridade | User Story / Funcionalidade (Baseado nos Casos de Uso)                                                                                             | Story Points | Sprint | Requisito | Status |
+| :--: | :--------: | :--------------------------------------------------------------------------------------------------------------------------------------------------- | :----------: | :----: | :-------: | :----: |
+|  5   |    Alta    | Como Equipe de TI, quero tratar um chamado pendente... *(Define transições Pendente->Em Andamento->Resolvido)* |      21      |   3-4  |    R05    |   ✅   |
+|  -   |    Alta    | **Modelagem do Ciclo de Vida do Chamado** |      ?       |    4   |    N/A    |   ✅   |
+
+## 🚀 Principais Realizações da Sprint <a id="realizacoes"></a>
+
+* **Identificação de Estados e Eventos:** Mapeamento dos estados (Pendente, Em Andamento, Resolvido, Finalizado) e eventos/ações que causam as transições para o `Chamado`.
+* **Construção do Diagrama:** Criação do [**Diagrama de Máquina de Estados do Chamado**](../../Diagramas/4_Gerenciamento_de_Chamados/Diagrama_de_Maquina_de_Estados_Chamado.png).
+* **Validação Técnica:** Revisão do diagrama pela equipe.
+* **Documentação e Versionamento:** Detalhamento e inclusão no repositório.
 
 ## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
 
@@ -60,9 +70,9 @@ Avançar na modelagem dinâmica do sistema com foco na criação do Diagrama de 
 
 ## 🔥 Desafios Enfrentados <a id="desafios"></a>
 
-* Mapear estados intermediários e transições alternativas complexas.
-* Alinhar regras de negócio com diferentes equipes.
-* Balancear detalhamento versus simplicidade visual do diagrama.
+* Complexidade em mapear estados intermediários e transições alternativas.
+* Necessidade de alinhar as regras de negócio com as equipes.
+* Balancear detalhamento versus simplicidade visual.
 * Agilidade na revisão e reedição após feedbacks.
 
 ## 🎓 Equipe <a id="equipe"></a>
