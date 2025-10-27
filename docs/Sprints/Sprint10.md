@@ -5,12 +5,13 @@
 # Documentação - Sprint 10
 
 <p align="center">
-     <img src="../docs/img/Fatal_System_Logo_FINAL.png" alt="logo da Fatal System" width="200">
+     <img src="../img/Fatal_System_Logo_FINAL.png" alt="logo da Fatal System" width="200">
      <h2 align="center"> Fatal System</h2>
 </p>
 
 <p align="center">
  | <a href="#objetivo">Objetivo da Sprint</a> |
+ <a href="#backlog-sprint">Backlog da Sprint</a> |
  <a href="#realizacoes">Principais Realizações</a> |
  <a href="#dor">DoR</a> |
  <a href="#dod">DoD</a> |
@@ -23,21 +24,21 @@
 
 ## 🏅 Objetivo da Sprint <a id="objetivo"></a>
 
-Definição e modelagem do Diagrama de Pacotes do sistema. O objetivo é organizar classes e componentes em pacotes lógicos de alto nível, facilitar a compreensão da estrutura arquitetural e auxiliar na modularização e manutenção do código.
+Definição e modelagem do **Diagrama de Pacotes**, organizando classes e componentes em pacotes lógicos de alto nível para facilitar a compreensão da estrutura arquitetural e a modularização.
 
-## 📋 Principais Realizações da Sprint <a id="realizacoes"></a>
+## 📋 Backlog da Sprint <a id="backlog-sprint"></a>
 
-* **Estruturação dos Pacotes Principais:**
-    * `Repositórios`: Camada de acesso aos dados.
-    * `Gerenciamento de Relatórios`: Lógica relacionada a relatórios.
-    * `Gerenciamento de Chamados`: Lógica de negócio dos chamados.
-    * `Gerenciamento de Usuarios`: Lógica de negócio dos usuários.
-    * `Gerenciamento de IA`: Lógica de interação com a IA.
-    * `Gestão de acesso`: Lógica de autenticação e autorização.
-    * *(Baseado no Diagrama de Pacotes - Página 14 do `Diagramas.pdf`)*.
-* **Definição das Dependências (`<<import>>`):**
-    * Pacotes de Gerenciamento (`Relatórios`, `Chamados`, `Usuarios`, `IA`) dependem do pacote `Repositórios`.
-    * `Gestão de acesso` depende (importa) dos pacotes `Gerenciamento de Chamados` e `Gerenciamento de Usuarios` (provavelmente para buscar informações após login ou verificar permissões).
+*(Itens do Backlog Geral abordados ou iniciados nesta Sprint)*
+
+| Rank | Prioridade | User Story / Funcionalidade                                                                                             | Story Points | Sprint | Requisito | Status |
+| :--: | :--------: | :----------------------------------------------------------------------------------------------------------------------- | :----------: | :----: | :-------: | :----: |
+|  -   |    Alta    | **Definição da Estrutura de Pacotes** |      ?       |   10   |    N/A    |   ✅   |
+
+## 🚀 Principais Realizações da Sprint <a id="realizacoes"></a>
+
+* **Estruturação dos Pacotes Principais:** `Repositórios`, `Gerenciamento de Relatórios`, `Gerenciamento de Chamados`, `Gerenciamento de Usuarios`, `Gerenciamento de IA`, `Gestão de acesso`.
+* **Visualização:** [**Diagrama de Pacotes**](../../Diagramas/1_Arquitetura/Diagrama_de_Pacotes.png).
+* **Definição das Dependências:** Modelagem das relações de importação (`<<import>>`) entre os pacotes.
 
 ## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
 
@@ -67,10 +68,10 @@ Definição e modelagem do Diagrama de Pacotes do sistema. O objetivo é organiz
 
 ## 🔥 Desafios Enfrentados <a id="desafios"></a>
 
-* Definir limites claros entre os pacotes para evitar sobreposição de responsabilidades.
-* Balancear a granularidade dos pacotes para manter modularidade sem fragmentar demais o sistema.
-* Garantir que as dependências fossem unidirecionais (ou claramente definidas) para evitar ciclos e facilitar manutenção.
-* Alinhar a estrutura de pacotes com os requisitos de escalabilidade e flexibilidade futuros.
+* Definir limites claros entre pacotes.
+* Balancear granularidade vs. fragmentação.
+* Garantir dependências unidirecionais.
+* Alinhar a estrutura com requisitos futuros.
 
 ## 🎓 Equipe <a id="equipe"></a>
 
