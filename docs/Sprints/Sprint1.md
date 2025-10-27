@@ -5,12 +5,13 @@
 # Documentação - Sprint 1
 
 <p align="center">
-     <img src="../docs/img/Fatal_System_Logo_FINAL.png" alt="logo da Fatal System" width="200">
+     <img src="../img/Fatal_System_Logo_FINAL.png" alt="logo da Fatal System" width="200">
      <h2 align="center"> Fatal System</h2>
 </p>
 
 <p align="center">
  | <a href="#objetivo">Objetivo da Sprint</a> |
+ <a href="#backlog-sprint">Backlog da Sprint</a> |
  <a href="#realizacoes">Principais Realizações</a> |
  <a href="#dor">DoR</a> |
  <a href="#dod">DoD</a> |
@@ -25,11 +26,20 @@
 
 Iniciar o levantamento de informações essenciais para o desenvolvimento do projeto, focando em compreender as necessidades do negócio, identificar problemas existentes nos processos e definir os requisitos iniciais do sistema. Esta etapa marca o início do processo de desenvolvimento, com foco na coleta e estruturação das primeiras informações relevantes.
 
-## 📋 Principais Realizações da Sprint <a id="realizacoes"></a>
+## 📋 Backlog da Sprint <a id="backlog-sprint"></a>
+
+*(Itens do Backlog Geral abordados ou iniciados nesta Sprint)*
+
+| Rank | Prioridade | User Story / Funcionalidade                                                                                             | Story Points | Sprint | Requisito | Status |
+| :--: | :--------: | :----------------------------------------------------------------------------------------------------------------------- | :----------: | :----: | :-------: | :----: |
+|  -   |    Alta    | **Levantamento de Requisitos Iniciais** |      ?       |    1   |    N/A    |   ✅   |
+|  -   |    Alta    | **Definição do Escopo e Desafio do Projeto** |      ?       |    1   |    N/A    |   ✅   |
+
+## 🚀 Principais Realizações da Sprint <a id="realizacoes"></a>
 
 * **Reconhecimento de Necessidades:** Realização de reuniões com stakeholders para entendimento do contexto e identificação de pontos críticos nos processos internos.
-* **Elicitação de Requisitos:** Aplicação de técnicas (entrevistas, questionários, brainstorming) para mapear funcionalidades desejadas, necessidades do negócio e expectativas dos usuários.
-* **Criação dos Primeiros Requisitos:** Redação inicial dos requisitos funcionais e não funcionais, com organização e validação preliminar junto aos stakeholders.
+* **Elicitação de Requisitos:** Aplicação de técnicas (entrevistas, questionários, brainstorming) para mapear funcionalidades desejadas, necessidades do negócio e expectativas.
+* **Criação dos Primeiros Requisitos:** Redação inicial dos requisitos funcionais e não funcionais, com organização e validação preliminar junto aos stakeholders (base para os arquivos `backlog.md`, `reqnfunc.md`, `solprop.md`).
 
 ## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
 
