@@ -38,8 +38,6 @@ O desafio consiste em criar um sistema de gerenciamento de chamados otimizado po
 
 ## 📋 Backlog do Produto <a id="backlog"></a>
 
-O Backlog do Produto detalha as funcionalidades planejadas para o sistema, priorizadas e estimadas em Story Points. Ele é baseado nos Casos de Uso identificados e serve como guia para o desenvolvimento ao longo das Sprints.
-
 ➡️ **[Acesse o Backlog do Produto detalhado aqui](docs/backlog.md)**
 
 ---
@@ -68,18 +66,21 @@ O Backlog do Produto detalha as funcionalidades planejadas para o sistema, prior
 
 ➡️ **[Acesse as informações dos integrantes aqui](integrantes.md)**
 
+
 ## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
 
 ➡️ **[Acesse o DoR detalhado aqui](docs/DoR.md)**
+
 
 ## 🏆 DoD - Definition of Done <a id="dod"></a>
 
 ➡️ **[Acesse o DoD detalhado aqui](docs/DoD.md)**
 
+
 ## 📖 Manual de Instalação <a id="manual"></a>
-Esta seção fornece as orientações necessárias para configurar o ambiente de desenvolvimento, preparar o banco de dados e executar a aplicação Fatal System localmente.
 
 ➡️ **[Acesse o Manual de Instalação detalhado aqui](docs/Manual_Instalação.md)**
+
 
 
 
