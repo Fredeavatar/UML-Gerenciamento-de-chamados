@@ -5,12 +5,13 @@
 # Documentação - Sprint 8
 
 <p align="center">
-     <img src="../docs/img/Fatal_System_Logo_FINAL.png" alt="logo da Fatal System" width="200">
+     <img src="../img/Fatal_System_Logo_FINAL.png" alt="logo da Fatal System" width="200">
      <h2 align="center"> Fatal System</h2>
 </p>
 
 <p align="center">
  | <a href="#objetivo">Objetivo da Sprint</a> |
+ <a href="#backlog-sprint">Backlog da Sprint</a> |
  <a href="#realizacoes">Principais Realizações</a> |
  <a href="#dor">DoR</a> |
  <a href="#dod">DoD</a> |
@@ -23,26 +24,35 @@
 
 ## 🏅 Objetivo da Sprint <a id="objetivo"></a>
 
-Definição e modelagem do Diagrama de Classes Geral do sistema. O objetivo é especificar as classes, atributos, métodos e relacionamentos, definindo a estrutura estática e servindo como base para o desenvolvimento orientado a objetos.
+Definição e modelagem do **Diagrama de Classes Geral**, especificando a estrutura estática do domínio (entidades, atributos, relacionamentos) e as classes de suporte (repositórios, serviços).
 
-## 📋 Principais Realizações da Sprint <a id="realizacoes"></a>
+## 📋 Backlog da Sprint <a id="backlog-sprint"></a>
 
-* **Modelagem das Classes Principais:**
-    * `Usuario` (IdUsuario, Nome, CPF, RG, FuncaoUsuario, Sexo, Setor, DataDeNascimento, Email, Login, Senha).
-    * `Chamado` (IdChamado, FK_IdUsuario, PrioridadeChamado, Titulo, Categoria, DataChamado, Descricao, StatusChamado, PessoasAfetadas, ImpedeTrabalho, OcorreuAnteriormente).
-    * `Historico` (IdHistorico, FK_IdChamado, DataSolucao, Acao, Solucao).
-    * `Arquivo` (IdArquivo, TipoArquivo, NomeArquivo, Arquivo, FK_IdChamado).
-    * `Funcoes` (utility com SessaoUsuario, EnviarEmailChamado, Criptografar, SelecionarArquivoEConverter).
-    * Classes de Repositório (`UsuarioRepository`, `ChamadoRepository`, `HistoricoRepository`).
-    * Classes de Atores (`Admin`, `EquipeDeTI`, `Funcionario`). *(Inferido do Diagrama Geral - Página 10)*.
-* **Definição dos Relacionamentos:**
-    * `Usuario` -- `UsuarioRepository`
-    * `Chamado` -- `ChamadoRepository`
-    * `Historico` -- `HistoricoRepository`
-    * `Chamado` (1) -- (0..*) `Historico`
-    * `Chamado` (1) -- (0..*) `Arquivo`
-    * `Usuario` (1) -- (N) `Chamado` (implícito via FK)
-    * Repositórios utilizam `Funcoes`.
+*(Itens do Backlog Geral abordados ou iniciados nesta Sprint)*
+
+| Rank | Prioridade | User Story / Funcionalidade                                                                                             | Story Points | Sprint | Requisito | Status |
+| :--: | :--------: | :----------------------------------------------------------------------------------------------------------------------- | :----------: | :----: | :-------: | :----: |
+|  -   |    Alta    | **Modelagem do Domínio Principal** (Classes Usuario, Chamado, Historico, Arquivo) |      ?       |    8   |    N/A    |   ✅   |
+|  -   |    Média   | **Definição das Classes de Serviço e Utilitárias** (Funcoes, AIService, Repositories) |      ?       |    8   |    N/A    |   ✅   |
+
+## 🚀 Principais Realizações da Sprint <a id="realizacoes"></a>
+
+* **Modelagem das Classes Principais:** `Usuario`, `Chamado`, `Historico`, `Arquivo`, `Funcoes`, `UsuarioRepository`, `ChamadoRepository`, `HistoricoRepository`, `Admin`, `EquipeDeTi`, `Funcionario`. Definição de atributos e relacionamentos principais.
+* **Visualização:** [**Diagrama de Classe Geral**](../../Diagramas/2_Modelo_De_Dominio/Diagrama_de_Classe_Geral.png).
+* **Modelagem de Classes Específicas (Detalhes):**
+    * [Classe Arquivo](../../Diagramas/4_Gerenciamento_de_Chamados/Arquivo_Classe.png)
+    * [Classe Criar Chamado (Contexto)](../../Diagramas/4_Gerenciamento_de_Chamados/Criar_Chamado_Classe.png)
+    * [Classe Editar Chamado (Contexto)](../../Diagramas/4_Gerenciamento_de_Chamados/Editar_Chamado_Classe.png)
+    * [Classe Tratar Chamado (Contexto)](../../Diagramas/4_Gerenciamento_de_Chamados/Tratar_Chamado_Classe.png)
+    * [Classe Triar Chamado (Contexto)](../../Diagramas/4_Gerenciamento_de_Chamados/Triar_Chamado_Classe.png)
+    * [Classe Visualizar Chamado (Contexto)](../../Diagramas/4_Gerenciamento_de_Chamados/Visualizar_Chamado_Classe.png)
+    * [Classe Adicionar Usuário (Contexto)](../../Diagramas/5_Gerenciamento_de_Usuarios/Adicionar_Usuario_Classe.png)
+    * [Classe Editar Usuário (Contexto)](../../Diagramas/5_Gerenciamento_de_Usuarios/Editar_Usuario_Classe.png)
+    * [Classe Visualizar Usuário (Contexto)](../../Diagramas/5_Gerenciamento_de_Usuarios/Visualizar_Usuario_Classe.png)
+    * [Classe Treinar IA (Contexto)](../../Diagramas/6_Gerenciamento_de_IA/TreinarIA_Classe.png)
+    * [Classe Filtrar Relatório (Contexto)](../../Diagramas/7_Gerenciamento_de_Relatórios/Filtrar_Relatorio_Classe.png)
+    * [Classe Gerar Relatório (Contexto)](../../Diagramas/7_Gerenciamento_de_Relatórios/Gerar_Relatorio_Classe.png)
+    * [Classe Gestão de Acesso (Contexto)](../../Diagramas/3_Gestão_de_Acesso/Gestão_de_Acesso_Classe_Geral.png)
 
 ## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
 
@@ -72,10 +82,10 @@ Definição e modelagem do Diagrama de Classes Geral do sistema. O objetivo é e
 
 ## 🔥 Desafios Enfrentados <a id="desafios"></a>
 
-* Definir os métodos corretos para cada classe, garantindo que refletissem todas as funcionalidades esperadas.
-* Alinhar a granularidade das classes para evitar classes muito genéricas ou excessivamente detalhadas.
-* Modelar corretamente as associações, especialmente para a integração com a inteligência artificial.
-* Garantir que o diagrama estivesse alinhado com os diagramas de sequência e componentes já criados.
+* Definir métodos corretos para cada classe.
+* Alinhar granularidade das classes.
+* Modelar corretamente as associações e dependências.
+* Garantir alinhamento com diagramas comportamentais anteriores.
 
 ## 🎓 Equipe <a id="equipe"></a>
 
