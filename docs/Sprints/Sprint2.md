@@ -5,12 +5,13 @@
 # Documentação - Sprint 2
 
 <p align="center">
-     <img src="../docs/img/Fatal_System_Logo_FINAL.png" alt="logo da Fatal System" width="200">
+     <img src="../../img/Fatal_System_Logo_FINAL.png" alt="logo da Fatal System" width="200">
      <h2 align="center"> Fatal System</h2>
 </p>
 
 <p align="center">
  | <a href="#objetivo">Objetivo da Sprint</a> |
+ <a href="#backlog-sprint">Backlog da Sprint</a> |
  <a href="#realizacoes">Principais Realizações</a> |
  <a href="#dor">DoR</a> |
  <a href="#dod">DoD</a> |
@@ -23,22 +24,31 @@
 
 ## 🏅 Objetivo da Sprint <a id="objetivo"></a>
 
-Avançar na definição das funcionalidades centrais do sistema, focando em estruturar os módulos de gerenciamento de usuários e chamados, definir os parâmetros para a atuação da inteligência artificial (IA) e estabelecer os requisitos para o módulo de relatórios, orientando o desenvolvimento futuro.
+Avançar na definição das funcionalidades centrais, focando em estruturar os módulos de gerenciamento de usuários e chamados, definir parâmetros para a IA e estabelecer requisitos para relatórios. Foco na modelagem dos **Diagramas de Casos de Uso**.
 
-## 📋 Principais Realizações da Sprint <a id="realizacoes"></a>
+## 📋 Backlog da Sprint <a id="backlog-sprint"></a>
 
-* **Gerenciamento de Usuários:**
-    * Definição das funcionalidades de CRUD (Cadastro, Edição, Gerenciamento).
-    * Especificação de campos obrigatórios (nome, e-mail, senha, tipo, status).
-    * Estabelecimento de níveis de acesso (administrador, agente, usuário comum).
-* **Inteligência Artificial (IA):**
-    * Escolha preliminar da IA/serviço a ser utilizado (baseado em escalabilidade, custo, integração).
-    * Definição de parâmetros para triagem automática (análise de palavras-chave, priorização por urgência/categoria, categorização por área).
-* **Gerenciamento de Chamados:**
-    * Definição dos campos do formulário (Título, Descrição, Categoria, Urgência, Anexos).
-    * Estabelecimento dos dados obrigatórios para submissão (título, descrição, categoria, urgência).
-* **Gerenciamento de Relatórios:**
-    * Definição dos filtros de visualização (Período personalizado, filtros rápidos, intervalo de datas).
+*(Itens do Backlog Geral abordados ou iniciados nesta Sprint)*
+
+| Rank | Prioridade | User Story / Funcionalidade (Baseado nos Casos de Uso)                                                                                             | Story Points | Sprint | Requisito | Status |
+| :--: | :--------: | :--------------------------------------------------------------------------------------------------------------------------------------------------- | :----------: | :----: | :-------: | :----: |
+|  -   |    Alta    | **Modelagem dos Casos de Uso** (Visão geral das funcionalidades por ator) |      ?       |    2   |    N/A    |   ✅   |
+|  3   |    Alta    | Como sistema (IA), quero classificar a prioridade... *(Definição conceitual)* |      8       |    2   |    R03    |   ✅   |
+|  4   |    Alta    | Como sistema (IA), quero propor uma solução... *(Definição conceitual)* |      13      |    2   |    R04    |   ✅   |
+|  9   |    Média   | Como Equipe de TI, quero gerar relatórios... *(Definição de requisitos)* |      13      |    5   |    R09    |   🚧   |
+
+## 🚀 Principais Realizações da Sprint <a id="realizacoes"></a>
+
+* **Gerenciamento de Usuários:** Definição de funcionalidades (CRUD), campos e níveis de acesso.
+    * Modelagem: [Caso de Uso Usuário](../../Diagramas/5_Gerenciamento_de_Usuarios/Caso_de_Uso_Usuario.png)
+* **Inteligência Artificial (IA):** Escolha preliminar do serviço (Gemini API) e definição de parâmetros para triagem.
+    * Modelagem: [Caso de Uso IA](../../Diagramas/6_Gerenciamento_de_IA/Caso_de_Uso_IA.png)
+* **Gerenciamento de Chamados:** Definição dos campos do formulário e dados obrigatórios.
+    * Modelagem: [Casos de Uso Gerenciamento de Chamados](../../Diagramas/4_Gerenciamento_de_Chamados/Casos_de_Uso_Gerenciamento_de_Chamados.png)
+* **Gerenciamento de Relatórios:** Definição dos filtros de visualização.
+    * Modelagem: [Caso de Uso Relatórios](../../Diagramas/7_Gerenciamento_de_Relatórios/Caso_de_Uso_Relatorios.png)
+* **Gestão de Acesso:** Definição do fluxo de login.
+    * Modelagem: [Caso de Uso Gestão de Acesso](../../Diagramas/3_Gestão_de_Acesso/Gestão_de_Acesso_Caso_de_Uso.png)
 
 ## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
 
