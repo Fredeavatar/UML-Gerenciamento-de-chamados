@@ -1,5 +1,7 @@
 ## 📖 Manual de Instalação <a id="manual"></a>
 
+### Esta seção fornece as orientações necessárias para configurar o ambiente de desenvolvimento, preparar o banco de dados e executar a aplicação Fatal System localmente.
+
 ### 🛠 Pré-requisitos
 
 * Visual Studio 2019 ou superior (com carga de trabalho ".NET desktop development")
